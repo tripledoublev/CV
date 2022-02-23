@@ -5,4 +5,4 @@ Dear world,
 
 Welcome to my github.
 
-I will be using this more as time goes on.
+You can find out more about myself on this [biliangual site -english & -french](https://charlebois.info)
