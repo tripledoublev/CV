@@ -1,7 +1,8 @@
-## Vincent 
-### Interdisciplinary artist,  
+# vincent 
+## Interdisciplinary artist,  
 ### Researcher and Creative Technologist
 
+### Art, nature and technology
 - 10 years of creative thinking  
 - A multitude of digital experiments  
 - Worked on 3 continents  
@@ -9,10 +10,10 @@
 - Over a million trees planted
 - Strong interest in creative tools & systems
 
-### Technical skills
+### Technical skills and experience
 
 - HTML, CSS, PHP & JavaScript 
-- web accessibility standards
+- Web accessibility standards
 - 3d scanning, rapid prototyping and additive manufacturing
 - Python and shell scripts 
 - Generative and AI systems
@@ -26,13 +27,13 @@
 
 ### Education
 - 2019 Master in Advanced Ecological Buildings & Biocities  
-        Institute for Advanced Architecture of Catalonia\
+        Institute for Advanced Architecture of Catalonia
 - 2012 BFA Intermedia & Cyber arts  
-        Concordia University\
+        Concordia University
 - 2006 College diploma in Communications and Media Studies  
-        Cégep du Vieux-Montréal\
+        Cégep du Vieux-Montréal
 
-### Art+Design+Tech
+### Art+Nature+Technology
 #### Solo exhibition
 2022 Conditions actuelles, Quai 5160, Montreal, QC  
 #### Group exhibitions
@@ -43,7 +44,8 @@
 2015 HYPERLOCAL, Sight & Sound Festival, Eastern Bloc, Montreal, QC  
 2015 Whether Forecasting, Modelling Current Conditions, French Restaurant, Montreal, QC  
 2012 pr0n, Galerie Pangée, Montreal, QC  
-#### Conferences
+#### Conferences & Workshops
+2022 Drawing the weather, Maison de la culture de Verdun, Montreal, QC
 2016 Data ecology, University of the Visual and Performing Arts, Colombo, Sri Lanka  
 2016 Creative Data : inputs & outputs, Atelier La Source du Lion, Casablanca, Morocco  
 2015 Art, nature et technologies, Concordia University, Montreal  
@@ -58,11 +60,12 @@
 2017 New Scenario, Jetrichovice, Czech Republic  
 2016 Theertha’s Red Dot Gallery, Colombo, Sri Lanka  
 2016 Eternal Internet Brotherhood/Sisterhood, Sigiriya, Sri Lanka  
-2016 Sound Development City, Madrid, Espagne et Casablanca, Morocco  
+2016 Sound Development City, Madrid, Spain et Casablanca, Morocco  
 2014 Eternal Internet Brotherhood/Sisterhood, Dead sea, Israel/Palestine  
 2013 Eternal Internet Brotherhood/Sisterhood, Las Pozas, Xilitla, Mexico  
 2012 Eternal Internet Brotherhood/Sisterhood, Anafi, Greece  
 #### Web sites
+2022 Postvisions, https://postvis.io/ns
 2022 Je me souviens, https://couvre-feu.quebec  
 2018 nodes, https://vincentcharlebois.com/nodes.html  
 2017 MCCM;nodes, https://tripledoublev.net  
