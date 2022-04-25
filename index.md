@@ -1,5 +1,5 @@
 # vincent 
-## Interdisciplinary artist,  
+## Interdisciplinary artist 
 ### Researcher and Creative Technologist
 
 ### Art, nature and technology
