@@ -33,7 +33,7 @@
 - 2006 College diploma in Communications and Media Studies  
         Cégep du Vieux-Montréal
 
-### Art+Nature+Technology
+### Work
 #### Solo exhibition
 2022 Conditions actuelles, Quai 5160, Montreal, QC  
 #### Group exhibitions
