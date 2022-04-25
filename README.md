@@ -4,6 +4,7 @@
 
 ### Welcome to my github.
 
+#### June 2022: Workshop on *Environmental Data Perceptualization* at ISEA Barcelona
 
 
 Currently building in 2 public repositories   
@@ -14,3 +15,6 @@ Sharpening my front-end skills on a private project.
 
 
 You can find out more about myself on this [bilingual site -> English & French](https://vincent.charlebois.info/)
+## CV
+### a markdown cv to find my dream job
+#### internet explorateur
