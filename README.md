@@ -4,6 +4,7 @@
 
 ### Welcome to my github.
 
+#### June 2022: Workshop on *Environmental Data Perceptualization* at ISEA Barcelona
 
 
 Currently building in 2 public repositories   
