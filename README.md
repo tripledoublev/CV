@@ -15,6 +15,5 @@ Currently building in 2 public repositories
 
 
 You can find out more about myself on this [bilingual site -> English & French](https://vincent.charlebois.info/)
-## CV
-### a markdown cv to find my dream job
+
 #### internet explorateur
