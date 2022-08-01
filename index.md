@@ -48,9 +48,9 @@
     - Personal project for a humorous memorial to the local curfew and lockdown
     - HTML, CSS, Javascript
     > 
-    > if 'curfew is active' and 'end of curfew is unknown', display 'time since curfew started'.
-    > if 'curfew is active' and 'end of curfew is known', display 'time left until the end of the curfew'.
-    > if 'curfew is over', display 'time since the curfew was lifted'.
+    > if 'curfew is active' and 'end of curfew is unknown', display 'time since curfew started'.  
+    > if 'curfew is active' and 'end of curfew is known', display 'time left until the end of the curfew'.  
+    > if 'curfew is over', display 'time since the curfew was lifted'.  
     >
 
 * [aux points](https://www.auxpoints.com/)
