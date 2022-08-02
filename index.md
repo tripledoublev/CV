@@ -23,27 +23,32 @@
     - HTML, CSS and Javascript
     - React, Tailwind CSS
 
+  
 * [Try Leather](https://tryleather.net) (on-going)
     - Design and development with [autofirm](https://autofirm.biz)
     - HTML, CSS, PHP and JavaScript
     - Kirby and Bootstrap
     - Git with merge request workflow
 
+  
 * [Consecutive days at the studio](https://vincent.charlebois.info/consecutive-days/) (on-going)
     - Personal python project that generates html from my personal data
     - Python, HTML, CSS, Javascript
     - Github actions
 
+  
 * [Am I at the studio?](https://vincent.charlebois.info/am-i/)
     - Personal web site that gets updated whenever I enter or leave the studio
     - HTML, CSS, Javascript page that fetches environmental data from Raspberry Pi
     - Github actions
+  
 
 * [Missing Voices](https://exhibits.library.mcgill.ca/voix_manquantes-missing_voices) (on-going)
     - Design and Accessibility standards
     - HTML, CSS with Bootstrap
     - Accessibility testing
     - Front-end redesign
+  
 
 * [Je me souviens](https://www.couvre-feu.quebec/)
     - Personal project for a humorous memorial to the local curfew and lockdown
@@ -53,16 +58,19 @@
       > if 'curfew is active' and 'end of curfew is known', display 'time left until the end of the curfew'.  
       > if 'curfew is over', display 'time since the curfew was lifted'.  
       >
+  
 
 * [aux points](https://www.auxpoints.com/)
     - Website built for an arts & culture collective
     - HTML, CSS, Javascript
+  
 
 * [postvisions](https://www.postvis.io/ns/)
     - Front-end Design and Development 
     - Website for an art exhibition Jan to May 2022
     - HTML, CSS, Javascript
-
+  
+  
 ### github
 - [tripledoublev](https://github.com/tripledoublev/)
 
