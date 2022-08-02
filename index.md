@@ -1,4 +1,4 @@
-## Vincent Charlebois
+## [Vincent Charlebois](https://vincentcharlebois.com)
 ### Frontend Developer
 - Solid knowledge of HTML, CSS and JavaScript  
 - Experience with React 
