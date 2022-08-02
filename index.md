@@ -8,6 +8,7 @@
 ### Technical skills
 - HTML, CSS, PHP & JavaScript 
 - React 
+- Bootstrap and Tailwind
 - Git
 - Jira and Confluence
 - Python
@@ -18,14 +19,14 @@
 
 ### Web projects
 * [vincent charlebois dot com](https://vincentcharlebois.com)
-    - Rebuilt my website with React
+    - Front-end design and web development
     - HTML, CSS and Javascript
-    - React
+    - React, Tailwind CSS
 
 * [Try Leather](https://tryleather.net) (on-going)
-    - I'm working on this website as a designer and developer with [autofirm](https://autofirm.biz)
+    - Contribute as a designer and developer with [autofirm](https://autofirm.biz)
     - HTML, CSS, PHP and JavaScript
-    - Kirby CMS
+    - Kirby and Bootstrap
     - Git with merge request workflow
 
 * [Consecutive days at the studio](https://vincent.charlebois.info/consecutive-days/) (on-going)
@@ -40,24 +41,25 @@
 
 * [Missing Voices](https://exhibits.library.mcgill.ca/voix_manquantes-missing_voices) (on-going)
     - I worked on this project as Design and Accessibility Specialist.
-    - HTML and CSS
+    - HTML, CSS with Bootstrap
     - Accessibility testing
     - Front-end redesign
 
 * [Je me souviens](https://www.couvre-feu.quebec/)
     - Personal project for a humorous memorial to the local curfew and lockdown
     - HTML, CSS, Javascript
-    > 
-    > if 'curfew is active' and 'end of curfew is unknown', display 'time since curfew started'.  
-    > if 'curfew is active' and 'end of curfew is known', display 'time left until the end of the curfew'.  
-    > if 'curfew is over', display 'time since the curfew was lifted'.  
-    >
+    - > 
+      > if 'curfew is active' and 'end of curfew is unknown', display 'time since curfew started'.  
+      > if 'curfew is active' and 'end of curfew is known', display 'time left until the end of the curfew'.  
+      > if 'curfew is over', display 'time since the curfew was lifted'.  
+      >
 
 * [aux points](https://www.auxpoints.com/)
     - Website built for an arts & culture collective
     - HTML, CSS, Javascript
 
 * [postvisions](https://www.postvis.io/ns/)
+    - Front-end Design and Development 
     - Website for an art exhibition Jan to May 2022
     - HTML, CSS, Javascript
 
