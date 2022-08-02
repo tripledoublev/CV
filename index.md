@@ -24,7 +24,7 @@
     - React, Tailwind CSS
 
 * [Try Leather](https://tryleather.net) (on-going)
-    - Contribute as a designer and developer with [autofirm](https://autofirm.biz)
+    - Design and development with [autofirm](https://autofirm.biz)
     - HTML, CSS, PHP and JavaScript
     - Kirby and Bootstrap
     - Git with merge request workflow
@@ -35,12 +35,12 @@
     - Github actions
 
 * [Am I at the studio?](https://vincent.charlebois.info/am-i/)
-    - Personal web site that gets updatd whenever I enter or leave the studio
+    - Personal web site that gets updated whenever I enter or leave the studio
     - HTML, CSS, Javascript page that fetches environmental data from Raspberry Pi
     - Github actions
 
 * [Missing Voices](https://exhibits.library.mcgill.ca/voix_manquantes-missing_voices) (on-going)
-    - I worked on this project as Design and Accessibility Specialist.
+    - Design and Accessibility standards
     - HTML, CSS with Bootstrap
     - Accessibility testing
     - Front-end redesign
