@@ -14,6 +14,7 @@
 - Git and pull request based workflows
 - Abode Creative Suite (Photoshop, Illustrator, InDesign)
 - Blockchain experience; DAO contributor and NFT creator with a strong interest in ReFi 
+- Figma
 - Jira and Confluence
 - Python
 - Node.js
