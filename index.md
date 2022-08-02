@@ -1,24 +1,31 @@
 ## Vincent Charlebois
-### Junior Frontend Engineer  
-- Great communicator
+### Frontend Developer
 - Solid knowledge of HTML, CSS and JavaScript  
-- Experience with React  
-- Curious and dedicated 
+- Experience with React 
+- Knowledge of web3 and Ethereum development tools 
+- Great communicator
+- Open source advocate
+- Curious, independent and responsive
 
 ### Technical skills
 - HTML, CSS, PHP & JavaScript 
 - React 
 - Bootstrap and Tailwind
-- Git
-- Jira and Confluence
-- Python
+- Git and pull request based workflows
 - Abode Creative Suite (Photoshop, Illustrator, InDesign)
 - Blockchain experience; DAO contributor and NFT creator with a strong interest in ReFi 
+- Jira and Confluence
+- Python
 - Node.js
 
 
 ### Current position (since March 2021)
 - Web specialist with the Digital Initiatives at the McGill University Library
+    * Implement front-end solutions
+    * Design web exhibitions and other Library sites
+    * Facilitate communications between developers and librarians.
+    * Contribute to Sprint planning
+    * Assist the Digital Initiatives team in implementing best UI and UX practices to meet the latest accessibility standards.
 
 ### Web projects
 * [vincent charlebois dot com](https://vincentcharlebois.com)
