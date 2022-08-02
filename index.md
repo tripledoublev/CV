@@ -12,7 +12,10 @@
 - Git
 - Jira and Confluence
 - Python
+- Abode Creative Suite (Photoshop, Illustrator, InDesign)
+- Blockchain experience; DAO contributor and NFT creator with a strong interest in ReFi 
 - Node.js
+
 
 ### Current position (since March 2021)
 - Web specialist with the Digital Initiatives at the McGill University Library
@@ -69,10 +72,13 @@
     - Front-end Design and Development 
     - Website for an art exhibition Jan to May 2022
     - HTML, CSS, Javascript
-  
+
   
 ### github
 - [tripledoublev](https://github.com/tripledoublev/)
 
 ### email
 - [vincent@charlebois.info](mailto:vincentcharlebois@gmail.com)
+
+### nfts
+- [vncnt.xyz](https://vncnt.xyz)
