@@ -1,4 +1,10 @@
 ## [Vincent Charlebois](https://vincentcharlebois.com)
+
+  
+### github
+- [tripledoublev](https://github.com/tripledoublev/)
+
+  
 ### Frontend Developer
 - Solid knowledge of HTML, CSS and JavaScript  
 - Experience with React 
@@ -82,9 +88,6 @@
     - HTML, CSS, Javascript
 
   
-### github
-- [tripledoublev](https://github.com/tripledoublev/)
-
 ### email
 - [vincent@charlebois.info](mailto:vincentcharlebois@gmail.com)
 
