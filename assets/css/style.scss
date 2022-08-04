@@ -2,4 +2,6 @@
 ---
 
 @import "{{ site.theme }}";
-@import "custom";
+header p, footer p {
+    display:none;
+  }
