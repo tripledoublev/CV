@@ -1,0 +1,14 @@
+---
+---
+
+@import "{{ site.theme }}";
+    header p, footer p {
+     display:none;
+  }
+  img { max-width:50%;}
+  a {text-decoration: underline;
+     color:black;}
+  h1 a {text-decoration: none;
+     font-size:calc(2vw + 2vh);}
+  header {width:200px;}
+  section {width:654px;}
