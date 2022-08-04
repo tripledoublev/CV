@@ -31,7 +31,7 @@
     * Contribute to Sprint planning
     * Assist the Digital Initiatives team in implementing best UI and UX practices to meet the latest accessibility standards.
 
-### Web projects
+### Recent web projects
 * [vincent charlebois dot com](https://vincentcharlebois.com)
     - Front-end design and web development
     - HTML, CSS and Javascript
@@ -93,7 +93,14 @@
 
 - 2006 College diploma in Communications and Media Studies  
         Cégep du Vieux-Montréal  
-
+  
+### Email
+- [vincent@charlebois.info](mailto:vincentcharlebois@gmail.com)
+  
+### NFTs
+- [vncnt.xyz](https://vncnt.xyz)
+  
+    
 ### Art+Design+Tech
 #### Solo exhibition
 2022 Conditions actuelles, Quai 5160, Montreal, QC  
@@ -153,9 +160,3 @@
 2016 About Growing Forests and Data Patterns by Uwe Lützen  
 2014 AQNB: An Interview With Vincent Charlebois by Eva Folks  
 2012 Rhizome :The Eternal Internet Brotherhood by Joanne McNeil  
-  
-### Email
-- [vincent@charlebois.info](mailto:vincentcharlebois@gmail.com)
-  
-### NFTs
-- [vncnt.xyz](https://vncnt.xyz)
