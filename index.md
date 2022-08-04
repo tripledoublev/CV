@@ -1,7 +1,7 @@
 ## Front-end Developer, Artist-researcher and Creative Technologist
   
 ### Github: [tripledoublev](https://github.com/tripledoublev/)
-  
+### Email: [vincent@charlebois.info](mailto:vincentcharlebois@gmail.com)
 ### Key skills  
 - Solid knowledge of HTML, CSS and JavaScript  
 - Experience with React 
@@ -94,8 +94,6 @@
 - 2006 College diploma in Communications and Media Studies  
         Cégep du Vieux-Montréal  
   
-### Email
-- [vincent@charlebois.info](mailto:vincentcharlebois@gmail.com)
   
 ### NFTs
 - [vncnt.xyz](https://vncnt.xyz)
