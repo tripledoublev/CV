@@ -1,19 +1,10 @@
-# Hello world
+# VC's CV
 
-## Dear world,
+## Exploring the potential of having a markdown CV hosted on github pages.
 
-### Welcome to my github.
+### i'm an internet explorateur actively working on a python [timesheet](https://github.com/tripledoublev/timesheet) 
 
-#### June 2022: Workshop on *Environmental Data Perceptualization* at ISEA Barcelona
-
-
-Currently building in 2 public repositories   
-1. a python [timesheet](https://github.com/tripledoublev/timesheet) 
-2. a [markdown CV](https://tripledoublev.github.io/CV/) 
+You can find out more about myself on this [English & French site.info](https://vincent.charlebois.info/) or on my [dot com](https://vincentcharlebois.com)
 
 
 
-
-You can find out more about myself on this [bilingual site -> English & French](https://vincent.charlebois.info/)
-
-#### internet explorateur
