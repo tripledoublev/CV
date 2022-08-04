@@ -1,1 +1,5 @@
 markdown: kramdown
+theme: jekyll-theme-minimal
+title: Vincent Charlebois
+description: VC's CV
+
