@@ -10,6 +10,7 @@
 - Open source advocate
 - Curious, independent and responsive
 
+  
 ### Technical skills
 - HTML, CSS, PHP & JavaScript 
 - React 
@@ -31,6 +32,7 @@
     * Contribute to Sprint planning
     * Assist the Digital Initiatives team in implementing best UI and UX practices to meet the latest accessibility standards.
 
+  
 ### Recent web projects
 * [vincent charlebois dot com](https://vincentcharlebois.com)
     - Front-end design and web development
@@ -84,6 +86,7 @@
     - Website for an art exhibition Jan to May 2022
     - HTML, CSS, Javascript
   
+    
 ### Education
 - 2019 Master in Advanced Ecological Buildings & Biocities  
         Institute for Advanced Architecture of Catalonia  
