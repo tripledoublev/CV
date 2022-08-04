@@ -158,3 +158,13 @@
 2016 About Growing Forests and Data Patterns by Uwe Lützen  
 2014 AQNB: An Interview With Vincent Charlebois by Eva Folks  
 2012 Rhizome :The Eternal Internet Brotherhood by Joanne McNeil  
+  
+
+# Additional Skills
+- Generative and AI systems
+- Raspberry pi, node-red and environmental data sensing
+- Max/MSP & Jitter 
+- Rhinoceros/ Grasshopper
+- Kirby, Wordpress and Drupal CMS
+- Audiovisual editing and processing
+- Adobe, Microsoft and Google suite
