@@ -1,11 +1,8 @@
-## [Vincent Charlebois](https://vincentcharlebois.com)
-
+## Frontend Developer
   
-### github
-- [tripledoublev](https://github.com/tripledoublev/)
-
+### github: [tripledoublev](https://github.com/tripledoublev/)
   
-### Frontend Developer
+### Key skills  
 - Solid knowledge of HTML, CSS and JavaScript  
 - Experience with React 
 - Knowledge of web3 and Ethereum development tools 
