@@ -1,6 +1,6 @@
-## Frontend Developer
+## Frontend Developer, Artist-researcher and Creative Technologist
   
-### github: [tripledoublev](https://github.com/tripledoublev/)
+### Github: [tripledoublev](https://github.com/tripledoublev/)
   
 ### Key skills  
 - Solid knowledge of HTML, CSS and JavaScript  
