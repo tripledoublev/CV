@@ -2,4 +2,5 @@ markdown: kramdown
 theme: jekyll-theme-minimal
 title: Vincent Charlebois
 description: VC's CV
-
+logo: https://vincentcharlebois.com/logo192.png
+google_analytics: G-QQFPRENB1X
