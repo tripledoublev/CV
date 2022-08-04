@@ -156,11 +156,11 @@
 2014 Bosquet magazine #02  
   
 #### Web mentions
-2017 ofluxo : New Scenario’s RESIDENCY  
-2016 Art Agenda: Experimental Education Protocol by Tess Edmonson  
+2017 [ofluxo](https://www.ofluxo.net/new-scenarios-residency/) : New Scenario’s RESIDENCY  
+2016 [Art Agenda](https://www.art-agenda.com/criticism/239530/experimental-education-protocol): Experimental Education Protocol by Tess Edmonson  
 2016 About Growing Forests and Data Patterns by Uwe Lützen  
-2014 AQNB: An Interview With Vincent Charlebois by Eva Folks  
-2012 Rhizome :The Eternal Internet Brotherhood by Joanne McNeil  
+2014 [AQNB](https://www.aqnb.com/2014/03/31/an-interview-with-vincent-charlebois/): An Interview With Vincent Charlebois by Eva Folks  
+2012 [Rhizome](https://rhizome.org/editorial/2012/aug/27/eternal-internet-brotherhood/) :The Eternal Internet Brotherhood by Joanne McNeil  
   
 
 # Additional Skills
