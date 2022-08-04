@@ -6,4 +6,3 @@
 
 You can find out more about myself on this [bilingual site -> English & French](https://vincent.charlebois.info/) or on my [dot com](https://vincentcharlebois.com)
 
-
