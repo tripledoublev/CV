@@ -163,7 +163,7 @@
 2012 [Rhizome](https://rhizome.org/editorial/2012/aug/27/eternal-internet-brotherhood/) :The Eternal Internet Brotherhood by Joanne McNeil  
   
 
-# Additional Skills
+### Additional Skills
 - Generative and AI systems
 - Raspberry pi, node-red and environmental data sensing
 - Max/MSP & Jitter 
