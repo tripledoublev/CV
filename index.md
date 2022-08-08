@@ -1,12 +1,38 @@
-## Front-end Developer, Artist-researcher and Creative Technologist
+## Artist-researcher and Creative Technologist
   
 ### Github: [tripledoublev](https://github.com/tripledoublev/)
 ### Email: [vincent@charlebois.info](mailto:vincentcharlebois@gmail.com)
+
+### Education
+- 2019 Master in Advanced Ecological Buildings & Biocities  
+        Institute for Advanced Architecture of Catalonia  
+
+- 2012 BFA Intermedia & Cyber arts  
+        Concordia University  
+
+- 2006 College diploma in Communications and Media Studies  
+        Cégep du Vieux-Montréal  
+
+  
+### Current position (since March 2021)
+- Web Specialist and Multimedia Coordinator with the Digital Initiatives at the McGill University Library
+    * Implement front-end solutions
+    * Design web exhibitions and other Library sites
+    * Facilitate communications between developers and librarians.
+    * Contribute to Sprint planning
+    * Assist the Digital Initiatives team in implementing best UI and UX practices to meet the latest accessibility standards.
+
+  
+### Previous positions 
+    * 2019 - 2020 Production & Operations Manager at Fablab inc a 3d printing start-up
+    * 2012 - 2018 Project manager for Reforestation projects with Canadian Silviculture companies
+  
+  
 ### Key skills  
-- Solid knowledge of HTML, CSS and JavaScript  
-- Experience with React 
+- Critical & strategic thinking 
 - Knowledge of web3 and Ethereum development tools 
 - Great communicator
+- Solid knowledge of Web standards  
 - Open source advocate
 - Curious, independent and responsive
 
@@ -22,16 +48,6 @@
 - Jira and Confluence
 - Python
 - Node.js
-
-
-### Current position (since March 2021)
-- Web specialist with the Digital Initiatives at the McGill University Library
-    * Implement front-end solutions
-    * Design web exhibitions and other Library sites
-    * Facilitate communications between developers and librarians.
-    * Contribute to Sprint planning
-    * Assist the Digital Initiatives team in implementing best UI and UX practices to meet the latest accessibility standards.
-
   
 ### Recent web projects
 * [vincent charlebois dot com](https://vincentcharlebois.com)
@@ -86,23 +102,13 @@
     - Website for an art exhibition Jan to May 2022
     - HTML, CSS, Javascript
   
-    
-### Education
-- 2019 Master in Advanced Ecological Buildings & Biocities  
-        Institute for Advanced Architecture of Catalonia  
-
-- 2012 BFA Intermedia & Cyber arts  
-        Concordia University  
-
-- 2006 College diploma in Communications and Media Studies  
-        Cégep du Vieux-Montréal  
   
-  
-### NFTs
+### NFT experiments
 - [vncnt.xyz](https://vncnt.xyz)
   
     
-### Art+Design+Tech
+### Art Projects
+
 #### Solo exhibition
 2022 Conditions actuelles, Quai 5160, Montreal, QC  
   
