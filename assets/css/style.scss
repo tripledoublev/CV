@@ -10,5 +10,10 @@
      color:black;}
   h1 a {text-decoration: none;
      font-size:calc(2vw + 2vh);}
-  header {width:200px;}
+ header {width:200px;}
   section {width:654px;}
+@media (max-width:2200px) {
+   header {
+      display:none !important;
+   }
+}
