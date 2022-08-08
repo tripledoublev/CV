@@ -24,8 +24,8 @@
 
   
 ### Previous positions 
-    * 2019 - 2020 Production & Operations Manager at Fablab inc a 3d printing start-up
-    * 2012 - 2018 Project manager for Reforestation projects with Canadian Silviculture companies
+ - 2019 - 2020 Production & Operations Manager at Fablab inc a 3d printing start-up
+ - 2012 - 2018 Project manager for Reforestation projects with Canadian Silviculture companies
   
   
 ### Key skills  
