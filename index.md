@@ -146,10 +146,10 @@
 2012 Eternal Internet Brotherhood/Sisterhood, Anafi, Greece  
   
 #### Web sites
-2018 nodes, https://vincentcharlebois.com/nodes.html  
-2017 MCCM;nodes, https://tripledoublev.net  
-2016 Rhytidome, https://tripledoublev.net/rhytidome  
-2015 if 2 words, https://tripledoublev.com/scroll  
+2018 [nodes](https://vincentcharlebois.com/nodes.)html  
+2017 [MCCM;nodes](https://tripledoublev.net)  
+2016 [Rhytidome](https://tripledoublev.net/rhytidome)  
+2015 [if 2 words](https://tripledoublev.com/scroll)  
   
 #### Screenings
 2012 Une soirée de projections, Astérides12, Marseille, France  
