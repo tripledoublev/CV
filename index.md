@@ -16,8 +16,8 @@
   
 ### Current position (since March 2021)
 - Web Specialist and Multimedia Coordinator with the Digital Initiatives at the McGill University Library
-    * Implement front-end solutions
-    * Design web exhibitions and other Library sites
+    * Implement front-end solutions for a variety of Library sites by using the University's Design System 
+    * Design web exhibitions and other Library websites
     * Facilitate communications between developers and librarians.
     * Contribute to Sprint planning
     * Assist the Digital Initiatives team in implementing best UI and UX practices to meet the latest accessibility standards.
@@ -25,7 +25,7 @@
   
 ### Previous positions 
  - 2019 - 2020 Production & Operations Manager at Fablab inc a 3d printing start-up
- - 2012 - 2018 Project manager for Reforestation projects with Canadian Silviculture companies
+ - 2012 - 2018 Project manager for Reforestation projects with multiple Canadian Silviculture companies
   
   
 ### Key skills  
@@ -64,24 +64,17 @@
 
   
 * [Consecutive days at the studio](https://vincent.charlebois.info/consecutive-days/) (on-going)
-    - Personal python project that generates html from my personal data
+    - Personal python project that generates html from my personal timecard data
     - Python, HTML, CSS, Javascript
     - Github actions
 
   
 * [Am I at the studio?](https://vincent.charlebois.info/am-i/)
     - Personal web site that gets updated whenever I enter or leave the studio
-    - HTML, CSS, Javascript page that fetches environmental data from Raspberry Pi
+    - HTML, CSS, Javascript that fetches environmental data from Raspberry Pi
     - Github actions
   
-
-* [Missing Voices](https://exhibits.library.mcgill.ca/voix_manquantes-missing_voices) (on-going)
-    - Design and Accessibility standards
-    - HTML, CSS with Bootstrap
-    - Accessibility testing
-    - Front-end redesign
   
-
 * [Je me souviens](https://www.couvre-feu.quebec/)
     - Personal project for a humorous memorial to the local curfew and lockdown
     - HTML, CSS, Javascript
@@ -146,7 +139,7 @@
 2012 Eternal Internet Brotherhood/Sisterhood, Anafi, Greece  
   
 #### Web sites
-2018 [nodes](https://vincentcharlebois.com/nodes.)html  
+2018 [nodes](https://vincentcharlebois.net//nodes.html) 
 2017 [MCCM;nodes](https://tripledoublev.net)  
 2016 [Rhytidome](https://tripledoublev.net/rhytidome)  
 2015 [if 2 words](https://tripledoublev.com/scroll)  
