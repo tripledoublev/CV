@@ -74,7 +74,7 @@
     - HTML, CSS, Javascript that fetches environmental data from Raspberry Pi
     - Github actions
   
-  
+
 * [Je me souviens](https://www.couvre-feu.quebec/)
     - Personal project for a humorous memorial to the local curfew and lockdown
     - HTML, CSS, Javascript
@@ -106,7 +106,7 @@
 2022 Conditions actuelles, Quai 5160, Montreal, QC  
   
 #### Group exhibitions
-2022 Toil, and a Peaceful Life, Pumice Raft, Toronto, ON 
+2022 Toil, and a Peaceful Life, Pumice Raft, Toronto, ON   
 2019 The Yard, The The The, Toronto, ON  
 2017 Something about Plants and Cables, Ostavinska Galerija, Belgrade, Serbia  
 2017 Residency, Jetrichovice, Czech Republic (organised by New Scenario)  
@@ -116,7 +116,7 @@
 2012 pr0n, Galerie Pangée, Montreal, QC  
   
 #### Conferences/Workshop
-2022 Environmental Data Perceptualization, ISEA2022, CCCB, Barcelona, Spain
+2022 Environmental Data Perceptualization, ISEA2022, CCCB, Barcelona, Spain  
 2016 Data ecology, University of the Visual and Performing Arts, Colombo, Sri Lanka  
 2016 Creative Data : inputs & outputs, Atelier La Source du Lion, Casablanca, Morocco  
 2015 Art, nature et technologies, Concordia University, Montreal  
@@ -139,7 +139,7 @@
 2012 Eternal Internet Brotherhood/Sisterhood, Anafi, Greece  
   
 #### Web sites
-2018 [nodes](https://vincentcharlebois.net//nodes.html) 
+2018 [nodes](https://vincentcharlebois.net//nodes.html)  
 2017 [MCCM;nodes](https://tripledoublev.net)  
 2016 [Rhytidome](https://tripledoublev.net/rhytidome)  
 2015 [if 2 words](https://tripledoublev.com/scroll)  
