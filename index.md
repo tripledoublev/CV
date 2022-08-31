@@ -1,28 +1,18 @@
-## Front End Developer
+## Junior Developer
 ## Artist-researcher and Creative Technologist
   
 ### Github: [tripledoublev](https://github.com/tripledoublev/)
 ### Email: [vincent@charlebois.info](mailto:vincentcharlebois@gmail.com)
 ### Portfolio: [vincentcharlebois.net](https:vincentcharlebois.net)
 
-### Education
-- 2019 Master in Advanced Ecological Buildings & Biocities  
-        Institute for Advanced Architecture of Catalonia  
-
-- 2012 BFA Intermedia & Cyber arts  
-        Concordia University  
-
-- 2006 College diploma in Communications and Media Studies  
-        Cégep du Vieux-Montréal  
-
   
 ### Current position (since March 2021)
 - Web Specialist and Multimedia Coordinator with the Digital Initiatives at the McGill University Library
     * Implement front-end solutions for a variety of Library sites by using the University's Design System 
-    * Design web exhibitions and other Library websites
+    * Design web exhibitions and other Library websites (HTML, CSS)
     * Facilitate communications between developers and librarians.
     * Contribute to Sprint planning
-    * Assist the Digital Initiatives team in implementing best UI and UX practices to meet the latest accessibility standards.
+    * Ensure the Library's UI and UX practices meet the latest accessibility standards.
 
   
 ### Previous positions 
@@ -52,12 +42,6 @@
 - Node.js
   
 ### Recent web projects
-* [vincent charlebois dot com](https://vincentcharlebois.com)
-    - Front-end design and web development
-    - HTML, CSS and Javascript
-    - React, Tailwind CSS
-
-  
 * [Try Leather](https://tryleather.net) (on-going)
     - Design and development with [autofirm](https://autofirm.biz)
     - HTML, CSS, PHP and JavaScript
@@ -74,9 +58,15 @@
 * [Am I at the studio?](https://vincent.charlebois.info/am-i/)
     - Personal web site that gets updated whenever I enter or leave the studio
     - HTML, CSS, Javascript that fetches environmental data from Raspberry Pi
+    - Web3.py to togglePresence on Optimism
+    - Solidity Smart Contract
     - Github actions
   
-
+* [vincent charlebois dot com](https://vincentcharlebois.com)
+    - Front-end design and web development
+    - HTML, CSS and Javascript
+    - React, Tailwind CSS
+    
 * [Je me souviens](https://www.couvre-feu.quebec/)
     - Personal project for a humorous memorial to the local curfew and lockdown
     - HTML, CSS, Javascript
@@ -85,22 +75,39 @@
       > if 'curfew is active' and 'end of curfew is known', display 'time left until the end of the curfew'.  
       > if 'curfew is over', display 'time since the curfew was lifted'.  
       >
-  
 
 * [aux points](https://www.auxpoints.com/)
     - Website built for an arts & culture collective
     - HTML, CSS, Javascript
-  
 
 * [postvisions](https://www.postvis.io/ns/)
     - Front-end Design and Development 
     - Website for an art exhibition Jan to May 2022
     - HTML, CSS, Javascript
-  
+
+### Education
+- 2019 Master in Advanced Ecological Buildings & Biocities  
+        Institute for Advanced Architecture of Catalonia  
+
+- 2012 BFA Intermedia & Cyber arts  
+        Concordia University  
+
+- 2006 College diploma in Communications and Media Studies  
+        Cégep du Vieux-Montréal    
   
 ### NFT experiments
 - [vncnt.xyz](https://vncnt.xyz)
-  
+
+
+### Additional Skills
+- Generative and AI systems
+- Raspberry pi, node-red and environmental data sensing
+- Max/MSP & Jitter 
+- Rhinoceros/ Grasshopper
+- Kirby, Wordpress and Drupal CMS
+- Audiovisual editing and processing
+- Adobe, Microsoft and Google suite
+
     
 ### Art Projects
 
@@ -163,12 +170,3 @@
 2014 [AQNB](https://www.aqnb.com/2014/03/31/an-interview-with-vincent-charlebois/): An Interview With Vincent Charlebois by Eva Folks  
 2012 [Rhizome](https://rhizome.org/editorial/2012/aug/27/eternal-internet-brotherhood/) :The Eternal Internet Brotherhood by Joanne McNeil  
   
-
-### Additional Skills
-- Generative and AI systems
-- Raspberry pi, node-red and environmental data sensing
-- Max/MSP & Jitter 
-- Rhinoceros/ Grasshopper
-- Kirby, Wordpress and Drupal CMS
-- Audiovisual editing and processing
-- Adobe, Microsoft and Google suite
