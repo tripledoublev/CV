@@ -8,17 +8,18 @@
   
 ### Current position (since March 2021)
 - Web Specialist and Multimedia Coordinator with the Digital Initiatives at the McGill University Library
-    * Implement front-end solutions for a variety of Library sites by using the University's Design System 
-    * Design web exhibitions and other Library websites (HTML, CSS)
-    * Facilitate communications between developers and librarians.
-    * Contribute to Sprint planning
-    * Ensure the Library's UI and UX practices meet the latest accessibility standards.
+    * **HTML, CSS** 
+        - Implement components for a variety of custom Library websites with the [McGill Design System](https://gitlab.ncs.mcgill.ca/wsg-public/mcgill-ds) 
+        - Design and program interfaces for Drupal and Wordpress-based web exhibitions and other Library websites 
+    * **Communications and coordination**
+        - Facilitate communications between developers and librarians.
+        - Tracking issues and processes with Jira, Confluence and Bitbucket
+    * **Improvements, best practices and redesigns**
+        - Ensure the Library's websites meet the latest accessibility standards.
+        - Tracking and visualizations of usage statistics
+        - Content audit and UX research
 
-  
-### Previous positions 
- - 2019 - 2020 Production & Operations Manager at Fablab inc a 3d printing start-up
- - 2012 - 2018 Project manager for Reforestation projects with multiple Canadian Silviculture companies
-  
+
   
 ### Key skills  
 - Critical & strategic thinking 
@@ -28,20 +29,16 @@
 - Open source advocate
 - Curious, independent and responsive
 
-  
-### Technical skills
-- HTML, CSS, PHP & JavaScript 
-- React 
-- Bootstrap and Tailwind
-- Git and pull request based workflows
-- Abode Creative Suite (Photoshop, Illustrator, InDesign)
-- Blockchain experience; DAO contributor and NFT creator with a strong interest in ReFi 
-- Figma
-- Jira and Confluence
-- Python
-- Node.js
-  
+ 
 ### Recent web projects
+* [Am I at the studio?](https://vincent.charlebois.info/am-i/)
+    - Personal web site that gets updated whenever I enter or leave the studio
+    - HTML, CSS, Javascript that fetches environmental data from Raspberry Pi
+    - Web3.py to interact with Optimism
+    - Ethers.js to fetch blockchain state
+    - Solidity Smart Contract
+    - Github actions
+  
 * [Try Leather](https://tryleather.net) (on-going)
     - Design and development with [autofirm](https://autofirm.biz)
     - HTML, CSS, PHP and JavaScript
@@ -55,13 +52,7 @@
     - Github actions
 
   
-* [Am I at the studio?](https://vincent.charlebois.info/am-i/)
-    - Personal web site that gets updated whenever I enter or leave the studio
-    - HTML, CSS, Javascript that fetches environmental data from Raspberry Pi
-    - Web3.py to togglePresence on Optimism
-    - Solidity Smart Contract
-    - Github actions
-  
+
 * [vincent charlebois dot com](https://vincentcharlebois.com)
     - Front-end design and web development
     - HTML, CSS and Javascript
@@ -84,6 +75,27 @@
     - Front-end Design and Development 
     - Website for an art exhibition Jan to May 2022
     - HTML, CSS, Javascript
+ 
+### Summary of technical skills
+- HTML, CSS, PHP & JavaScript 
+- Python
+- React 
+- Bootstrap and Tailwind
+- Git and pull request based workflows
+- Abode Creative Suite (Photoshop, Illustrator, InDesign)
+- Blockchain experience; DAO contributor and NFT creator with a strong interest in ReFi 
+- Figma
+- Jira and Confluence
+- Node.js
+
+### Additional Skills
+- Generative and AI systems
+- Raspberry pi, node-red and environmental data sensing
+- Max/MSP & Jitter 
+- Rhinoceros/ Grasshopper
+- Kirby, Wordpress and Drupal CMS
+- Audiovisual editing and processing
+- Adobe, Microsoft and Google suite
 
 ### Education
 - 2019 Master in Advanced Ecological Buildings & Biocities  
@@ -99,14 +111,6 @@
 - [vncnt.xyz](https://vncnt.xyz)
 
 
-### Additional Skills
-- Generative and AI systems
-- Raspberry pi, node-red and environmental data sensing
-- Max/MSP & Jitter 
-- Rhinoceros/ Grasshopper
-- Kirby, Wordpress and Drupal CMS
-- Audiovisual editing and processing
-- Adobe, Microsoft and Google suite
 
     
 ### Art Projects
