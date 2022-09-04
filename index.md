@@ -95,6 +95,10 @@
 - Raspberry pi, node-red and environmental data sensing
     * Enviro board by Pimonori
     * A node-red web app to fetch weather data from my cloud-connected weather station
+- Digital Fabrication
+    * 3d printing
+    * Rapid prototyping
+    * 3d scanning and photogrammetry
 - Max/MSP & Jitter 
 - Rhinoceros/ Grasshopper
 - Kirby, Wordpress and Drupal CMS
