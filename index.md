@@ -10,8 +10,8 @@
 - Python
 - Blockchain experience: 
     * DAOs
-        - holly+ DAO contributor
-        - gmDAO member
+        - DAO Member and contributor
+        - Kernel block 5 fellow
     * [Timesheet](#recent-web-projects):
         - Wrote my own [Solidity Smart Contract](https://optimistic.etherscan.io/address/0xaf6c153972fbc7d67feaa9f9d1d08f3c13f79773#code)
         - Python interface with [Web3.py](https://github.com/tripledoublev/timesheet/blob/master/w3py/toggle.py)
@@ -78,12 +78,12 @@
 
 
 ### Key skills  
-- Critical & strategic thinking 
+- Critical, creative & strategic thinking 
 - Knowledge of web3 and Ethereum development tools 
 - Great communicator
-- Solid knowledge of Web standards  
+- Solid knowledge of Accessibility standards  
 - Open source advocate
-- Self-driven and motivated to learn and grow
+- Self-driven and motivated to learn
 - Curious, independent and responsive
 
 
