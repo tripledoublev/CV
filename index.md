@@ -8,6 +8,13 @@
 ### Summary of technical skills
 - HTML, CSS, PHP & JavaScript 
 - Python
+- React.js 
+- Bootstrap and Tailwind
+- Git and pull request based workflows
+- Abode Creative Suite (Photoshop, Illustrator, InDesign)
+- Figma
+- Jira and Confluence
+- Node.js
 - Blockchain experience: 
     * DAOs
         - DAO Member and contributor
@@ -18,13 +25,6 @@
         - [Front-end web app](https://vincent.charlebois.info/am-i) with Ethers.js
     * [NFTs](#nft-experiments)
         - HTML, CSS, Javascript, SVG and other interactive NFTs
-- React.js 
-- Bootstrap and Tailwind
-- Git and pull request based workflows
-- Abode Creative Suite (Photoshop, Illustrator, InDesign)
-- Figma
-- Jira and Confluence
-- Node.js
 
 ### Current position (since March 2021)
 - **Web Specialist** and Multimedia Coordinator with the Digital Initiatives at the McGill University Library
