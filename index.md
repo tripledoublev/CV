@@ -15,16 +15,7 @@
 - Figma
 - Jira and Confluence
 - Node.js
-- Blockchain experience: 
-    * DAOs
-        - DAO Member and contributor
-        - Kernel block 5 fellow
-    * [Timesheet](#recent-web-projects):
-        - Wrote my own [Solidity Smart Contract](https://optimistic.etherscan.io/address/0xaf6c153972fbc7d67feaa9f9d1d08f3c13f79773#code)
-        - Python interface with [Web3.py](https://github.com/tripledoublev/timesheet/blob/master/w3py/toggle.py)
-        - [Front-end web app](https://vincent.charlebois.info/am-i) with Ethers.js
-    * [NFTs](#nft-experiments)
-        - HTML, CSS, Javascript, SVG and other interactive NFTs
+
 
 ### Current position (since March 2021)
 - **Web Specialist** and Multimedia Coordinator with the Digital Initiatives at the McGill University Library
@@ -41,6 +32,13 @@
 
  
 ### Recent web projects
+* [Try Leather](https://tryleather.net) (on-going)
+    - Design and development with [autofirm](https://autofirm.biz)
+    - HTML, CSS, PHP and JavaScript
+    - Kirby and Bootstrap
+    - Git with merge request workflow
+    
+    
 * [Am I at the studio?](https://vincent.charlebois.info/am-i/)
     - Personal web site that gets updated whenever I enter or leave the studio
     - HTML, CSS, Javascript that fetches environmental data from Raspberry Pi
@@ -48,12 +46,6 @@
     - Ethers.js to fetch blockchain state
     - Solidity Smart Contract
     - Github actions
-  
-* [Try Leather](https://tryleather.net) (on-going)
-    - Design and development with [autofirm](https://autofirm.biz)
-    - HTML, CSS, PHP and JavaScript
-    - Kirby and Bootstrap
-    - Git with merge request workflow
 
   
 * [Consecutive days at the studio](https://vincent.charlebois.info/consecutive-days/) (on-going)
@@ -88,6 +80,16 @@
 
 
 ### Additional Skills
+- Blockchain experience: 
+    * DAOs
+        - DAO Member and contributor
+        - Kernel block 5 fellow
+    * [Timesheet](#recent-web-projects):
+        - Wrote my own [Solidity Smart Contract](https://optimistic.etherscan.io/address/0xaf6c153972fbc7d67feaa9f9d1d08f3c13f79773#code)
+        - Python interface with [Web3.py](https://github.com/tripledoublev/timesheet/blob/master/w3py/toggle.py)
+        - [Front-end web app](https://vincent.charlebois.info/am-i) with Ethers.js
+    * [NFTs](#nft-experiments)
+        - HTML, CSS, Javascript, SVG and other interactive NFTs
 - Generative and AI systems 
     * Stylegan
     * VQGAN-Clip
@@ -106,7 +108,7 @@
 - Adobe, Microsoft and Google suite
 
 ### Previous positions 
- - 2019 - 2020 Production & Operations Manager at Fablab inc a 3d printing start-up
+ - 2019 - 2020 Production & Operations Manager at Fablab inc, a 3d printing start-up
  - 2012 - 2018 Project manager for Reforestation projects with multiple Canadian Silviculture companies
 
 
