@@ -1,18 +1,21 @@
 ## Développeur front-end en visualisation de données
 ### Github: [tripledoublev](https://github.com/tripledoublev/)
 ### Courriel: [vincent@charlebois.info](mailto:vincentcharlebois@gmail.com)
+### [.com](https://vincentcharlebois.com)  
+### [.net](https://vincentcharlebois.net)  
+### [.info](https://vincent.charlebois.info)  
 
 ### Profil
 - Spécialiste du design et de l'accesibilité des technologies numériques
 - Intérêt marqué pour l'information et les données
 - Autonome et pro-actif avec d'excellentes compétences en communications
 - Expérience en développement web et en visualisation de données
-- Esprit critique, pensée stratégique et capacité d'innovation
+- Esprit critique, pensée stratégique et grande capacité à innover
 
 
 ### Résumé des connaissances techniques
 - Node.js et D3.js
-- Base de données non relationnels
+- Bases de données non relationnels
 - HTML5, CSS/SCSS, PHP & JavaScript 
 - Python
 - React
@@ -84,110 +87,50 @@
 
 
 ### Emplois précédents 
- - 2019 - 2020 Gérant des opérations et de la production, Fablab inc
-    * 
- - 2012 - 2018 Project manager for Reforestation projects with multiple Canadian Silviculture companies
+ - 2020 - 2021 Gestionnaire des opérations et de la production, Fablab inc
+    * Spécialiste du prototypage rapide, de la numérisation et de l'impression 3d
+    * Communications des besoins des clients à l'équipe d'ingénierie  
+    * Assister la R&D et promouvoir l'innovation dans le milieu de la fabrication additive
+
+ - 2012 - 2018 Chef d'équipe et chargé de projet en reforestation pour diverses compagnies silvicoles au Canada
+    * Prise en charge de la logistique et des opérations
+    * Communication avec le client, l'équipe de travailleurs et l'administration
+    * Faire le suivi de la qualité des livrables
+    * Embauche et formation de l'équipe
 
 
-### Other websites
+### Projets web
 * [postvisions](https://www.postvis.io/ns/) 2022
-    - Front-end Design and Development 
-    - Website for an art exhibition Jan to May 2022
+    - Design Front-end, programmation and développement web 
+    - Site web pour une exposition en art actuel for an art exhibition Janvier à Mai 2022
     - HTML, CSS, Javascript
 
 * [Celia Perrin Sidarous](https://www.celia-perrin-sidarous.com/) 2021
-    - Design and Development
-    - Simple website for an artist 
+    - Design et Développement
+    - Site web pour une artiste en arts visuels 
     - HTML, CSS, Javascript
 
 * [aux points](https://www.auxpoints.com/) 2020
-    - Website built for an arts & culture collective
+    - Site web pour un organisme culturel
     - HTML, CSS, Javascript
 
 * [niu haus](https://niu-haus.com) 2019
-    - Designed and programmed this website for my master's thesis project
+    - Design et programmation du site web pour mon projet de maîtrise
     - HTML, CSS
 
 * [tripledoublev.net](https://tripledoublev.net/) 2017
-    - Designed and programmed this website to show the data for my personal project [*nodes*](https://vincentcharlebois.net/nodes.html)
+    - Design et programmation d'un site web mettant en scène différents visualization environnementales pour le projet [*nodes*](https://vincentcharlebois.net/nodes.html)
     - HTML, CSS
 
-### Education
-- 2019 Master in Advanced Ecological Buildings & Biocities  
+### Éducation
+- 2019 Maîtrise en Architecture (*Advanced Ecological Buildings & Biocities*)  
         Institute for Advanced Architecture of Catalonia  
 
-- 2012 BFA Intermedia & Cyber arts  
+- 2012 Baccalauréat en beaux-arts avec majeur en création numérique (*BFA Intermedia & Cyber arts*)  
         Concordia University  
 
-- 2006 College diploma in Communications and Media Studies  
+- 2006 DEC en Communications et études des médias  
         Cégep du Vieux-Montréal    
   
-### NFT experiments
-- [vncnt.xyz](https://vncnt.xyz)
 
-### Art Projects
 
-#### Solo exhibition
-2022 Conditions actuelles, Quai 5160, Montreal, QC  
-  
-#### Group exhibitions
-2022 Toil, and a Peaceful Life, Pumice Raft, Toronto, ON   
-2019 The Yard, The The The, Toronto, ON  
-2017 Something about Plants and Cables, Ostavinska Galerija, Belgrade, Serbia  
-2017 Residency, Jetrichovice, Czech Republic (organised by New Scenario)  
-2015 APPROXIMATELY 800cm3 of PLA, Baile, Espírito Santo, Brazil  
-2015 HYPERLOCAL, Sight & Sound Festival, Eastern Bloc, Montreal, QC  
-2015 Whether Forecasting, Modelling Current Conditions, French Restaurant, Montreal, QC  
-2012 pr0n, Galerie Pangée, Montreal, QC  
-  
-#### Conferences/Workshop
-2022 Environmental Data Perceptualization, ISEA2022, CCCB, Barcelona, Spain  
-2016 Data ecology, University of the Visual and Performing Arts, Colombo, Sri Lanka  
-2016 Creative Data : inputs & outputs, Atelier La Source du Lion, Casablanca, Morocco  
-2015 Art, nature et technologies, Concordia University, Montreal  
-2012 World Wide Web : l’art sur le net, Eastern Bloc, Montreal, QC Canada  
-  
-#### Performances
-2017 I did not. I did not. I do not say that, World Money Gallery, Brooklyn, NY  
-2017 (TVP6000x2m)Trust me, Place Publique, Fonderie Darling, Montreal, QC  
-2016 NNNN, Interesting, Nadie Nunca Nada No, Madrid, Spain  
-2014 Le pelleteur de gravier, DARE-DARE, Montreal, QC  
-  
-#### Residencies
-2017 Ostavinska Galerija, Belgrade, Serbia  
-2017 New Scenario, Jetrichovice, Czech Republic  
-2016 Theertha’s Red Dot Gallery, Colombo, Sri Lanka  
-2016 Eternal Internet Brotherhood/Sisterhood, Sigiriya, Sri Lanka  
-2016 Sound Development City, Madrid, Espagne et Casablanca, Morocco  
-2014 Eternal Internet Brotherhood/Sisterhood, Dead sea, Israel/Palestine  
-2013 Eternal Internet Brotherhood/Sisterhood, Las Pozas, Xilitla, Mexico  
-2012 Eternal Internet Brotherhood/Sisterhood, Anafi, Greece  
-  
-#### Web sites
-2018 [nodes](https://vincentcharlebois.net//nodes.html)  
-2017 [MCCM;nodes](https://tripledoublev.net)  
-2016 [Rhytidome](https://tripledoublev.net/rhytidome)  
-2015 [if 2 words](https://tripledoublev.com/scroll)  
-  
-#### Screenings
-2012 Une soirée de projections, Astérides12, Marseille, France  
-2012 Kinoautomat, Cinémathèque Québécoise, Montreal, QC Canada  
-  
-#### Print
-2017 ETC media magazine #110   
-2017 Sound Development City, Publication  
-2015 Après tout Internet par Gregory Chatonsky, ETC media magazine #106  
-2014 Bosquet magazine #02  
-  
-#### Web mentions
-2017 [ofluxo](https://www.ofluxo.net/new-scenarios-residency/) : New Scenario’s RESIDENCY  
-2016 [Art Agenda](https://www.art-agenda.com/criticism/239530/experimental-education-protocol): Experimental Education Protocol by Tess Edmonson  
-2016 About Growing Forests and Data Patterns by Uwe Lützen  
-2014 [AQNB](https://www.aqnb.com/2014/03/31/an-interview-with-vincent-charlebois/): An Interview With Vincent Charlebois by Eva Folks  
-2012 [Rhizome](https://rhizome.org/editorial/2012/aug/27/eternal-internet-brotherhood/) :The Eternal Internet Brotherhood by Joanne McNeil  
-  
-
-### Web
-- [dot com](https://vincentcharlebois.com)  
-- [dot net](https://vincentcharlebois.net)  
-- [dot info](https://vincent.charlebois.info)  
