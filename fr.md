@@ -1,13 +1,13 @@
 ## Développeur front-end en visualisation de données
 ### Github: [tripledoublev](https://github.com/tripledoublev/)
 ### Courriel: [vincent@charlebois.info](mailto:vincentcharlebois@gmail.com)
-### [.com](https://vincentcharlebois.com)  
-### [.net](https://vincentcharlebois.net)  
-### [.info](https://vincent.charlebois.info)  
+### [vincentcharlebois.com](https://vincentcharlebois.com)  
+### [portfolio.net](https://vincentcharlebois.net)  
+### [démarche.info](https://vincent.charlebois.info)  
 
 ### Profil
 - Spécialiste du design et de l'accesibilité des technologies numériques
-- Intérêt marqué pour l'information et les données
+- Intérêt marqué pour l'information et la mise en récit des données
 - Autonome et pro-actif avec d'excellentes compétences en communications
 - Expérience en développement web et en visualisation de données
 - Esprit critique, pensée stratégique et grande capacité à innover
@@ -98,6 +98,13 @@
     * Faire le suivi de la qualité des livrables
     * Embauche et formation de l'équipe
 
+ - 2012 - 2018 Artiste-chercheur et consultant en innovation numérique, création intermédia, web et interactivité
+    * Design et programmation web
+    * Production audiovisuelle
+    * Présentation de conférences et d'ateliers créatifs
+    * Production d'événements multimédia
+    * Programmation de systèmes interactifs
+
 
 ### Projets web
 * [postvisions](https://www.postvis.io/ns/) 2022
@@ -119,7 +126,7 @@
     - HTML, CSS
 
 * [tripledoublev.net](https://tripledoublev.net/) 2017
-    - Design et programmation d'un site web mettant en scène différents visualization environnementales pour le projet [*nodes*](https://vincentcharlebois.net/nodes.html)
+    - Design et programmation d'un site web mettant en scène différentes visualizations environnementales pour le projet [*nodes*](https://vincentcharlebois.net/nodes.html)
     - HTML, CSS
 
 ### Éducation
