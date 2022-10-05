@@ -4,7 +4,7 @@
 ### [vincentcharlebois.com](https://vincentcharlebois.com)  
 ### [portfolio.net](https://vincentcharlebois.net)  
 ### [démarche.info](https://vincent.charlebois.info)  
-[image](/img/__desaturate__dataviz.png)
+[image](/assets/img/__desaturate__dataviz.png)
 ### Profil
 - Spécialiste du design et de l'accesibilité des technologies numériques
 - Intérêt marqué pour l'information et la mise en récit des données
