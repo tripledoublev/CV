@@ -1,30 +1,22 @@
 ## Développeur front-end en visualisation de données
-### Github: [tripledoublev](https://github.com/tripledoublev/)
-### Courriel: [vincent@charlebois.info](mailto:vincentcharlebois@gmail.com)
-### [vincentcharlebois.com](https://vincentcharlebois.com)  
-### [portfolio.net](https://vincentcharlebois.net)  
-### [démarche.info](https://vincent.charlebois.info)  
-![weather visualization](/CV/assets/img/__desaturate__dataviz.png){:class="img-responsive"}
-### Profil
-- Spécialiste du design et de l'accesibilité des technologies numériques
-- Intérêt marqué pour l'information et la mise en récit des données
-- Autonome et pro-actif avec d'excellentes compétences en communications
-- Expérience en développement web et en visualisation de données
-- Esprit critique, pensée stratégique et grande capacité à innover
 
+### Profil
+- Spécialiste de la mise en récit des données
+- Intérêt marqué pour l'information et l'innovation numérique
+- Esprit collaboratif avec d'excellentes compétences communicationnelles 
+- Adepte de la pensée computationnelle et du potentiel narratif des banques de données
+- Esprit critique avec un grande capacité d'adaptation
 
 ### Résumé des connaissances techniques
-- Node.js et D3.js
-- Bases de données non relationnels
-- HTML5, CSS/SCSS, PHP & JavaScript 
-- Python
-- React
-- Bootstrap et Tailwind
-- Git dans un contexte de travail basé sur les *Pull Requests*
-- Suite créative Adobe (Photoshop, Illustrator, InDesign)
-- Jira et Confluence
-
-
+- Maîtrise de Javascript, Node.js et D3.js
+- Connaissance de la cartographie et des données géolocalisées
+- Maîtrise de HTML5, CSS/SCSS (Bootstrap et Tailwind)
+- Expérience avec Python et la gestion de données
+- Connaissance de React
+- Connaissance des bases de données non relationnelles
+- Maîtrise de la Suite créative Adobe (Photoshop, Illustrator, InDesign)
+- Expérience avec Git dans un contexte de travail basé sur les *Pull Requests*
+- Expérience avec Jira et Confluence
 
 ### Poste actuel (depuis mars 2021)
 - Spécialiste web et coordonnateur multimédia au sein des *Initiatives numériques* à la bibliothèque de l'université McGill
@@ -34,7 +26,7 @@
            * Mise en image des disponibilités d'espace de travail à la bibliothèque 
         - Implémenter les composants front-end du [McGill Design System](https://gitlab.ncs.mcgill.ca/wsg-public/mcgill-ds) pour divers sites de la bibliothèque
         - Concevoir les composants visuels et les interfaces des expositions numériques créées par l'équipe de la bibliothèque
-        
+        - Développer des expériences web conformément aux standards d'accesibilité
     * **Communications et coordination**
         - Faciliter les communications entre développeurs et bibliothécaires.
         - Faire le suivi des taches et des procédés avec Jira, Confluence et Gitlab
@@ -43,11 +35,10 @@
         - Mise en données et visualisations des statistiques sur l'utilisation du site de la bibliothèque
         - Audit du contenu web et recherche UX
 
- 
-### Projets récents
-* [Try Leather](https://tryleather.net) (on-going)
+### Divers projets récents
+* [Try Leather](https://tryleather.net) (en cours)
     - Création d'un site web comme archive du projet Try Leather de Margaret Dragu
-    - Design et programmation web en partenariat avec [autofirm](https://autofirm.biz)
+    - Design et programmation web à titre de développeur en partenariat avec [autofirm](https://autofirm.biz)
     - HTML, CSS, PHP et JavaScript
     - Kirby et Bootstrap
     - Git 
@@ -64,7 +55,7 @@
 
   
 * [Consecutive days at the studio](https://vincent.charlebois.info/consecutive-days/) (on-going)
-    - Projet personnel qui génère des fichiers HTML à partir de mes données de feuille de temps
+    - Projet sonore personnel qui génère des fichiers HTML à partir de mes données de feuille de temps
     - Python, HTML, CSS, Javascript
     - Web audio API
     - Github actions
@@ -106,10 +97,10 @@
     * Programmation de systèmes interactifs
 
 
-### Projets web
+### Autres projets web
 * [postvisions](https://www.postvis.io/ns/) 2022
     - Design Front-end, programmation and développement web 
-    - Site web pour une exposition en art actuel for an art exhibition Janvier à Mai 2022
+    - Site web pour une exposition en art actuel de Janvier à Mai 2022
     - HTML, CSS, Javascript
 
 * [Celia Perrin Sidarous](https://www.celia-perrin-sidarous.com/) 2021
@@ -139,5 +130,9 @@
 - 2006 DEC en Communications et études des médias  
         Cégep du Vieux-Montréal    
   
+### Expérience complémentaire
+* Formateur lors d'un [atelier à ISEA 2022](https://isea2022.isea-international.org/event/workshop-environmental-data-perceptualization/) à Barcelone
+    - Auteur d'une présentation suivi d'un atelier collaboratif de programmation dans le but d'explorer le potentiel créatif de la perceptualisation des données environnmentales. 
+    - Visualisation et sonification d'archives et de données météorologiques en direct
 
 
