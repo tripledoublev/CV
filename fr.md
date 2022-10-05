@@ -1,5 +1,10 @@
 ## Développeur front-end en visualisation de données
 
+### Github: [tripledoublev](https://github.com/tripledoublev/)
+### Email: [vincent@charlebois.info](mailto:vincentcharlebois@gmail.com)
+### Portfolio: [vincentcharlebois.net](https://vincentcharlebois.net)
+### Descriptif: [charlebois.info](https://vincent.charlebois.info/fr)
+
 ### Profil
 - Spécialiste de la mise en récit des données
 - Intérêt marqué pour l'information et l'innovation numérique
