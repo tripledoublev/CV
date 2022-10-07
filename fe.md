@@ -5,11 +5,11 @@
 
 
 ### Key skills  
-- Critical, creative & strategic thinking 
-- Great communicator and collaborator
+- Critical, creative & strategic thinking  
+- Compassionate communicator and collaborator
 - Open source advocate
 - Self-driven problem-solver motivated to work on creative projects
-- Curious, independent and responsive
+- Curious, independent and commited
 
 
 ### Summary of technical skills
