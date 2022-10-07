@@ -67,7 +67,7 @@
         - Wrote my own [Solidity Smart Contract](https://optimistic.etherscan.io/address/0xaf6c153972fbc7d67feaa9f9d1d08f3c13f79773#code)
         - Python interface with [Web3.py](https://github.com/tripledoublev/timesheet/blob/master/w3py/toggle.py)
         - [Front-end web app](https://vincent.charlebois.info/am-i) with Ethers.js
-    * [NFTs](#nft-experiments)
+    * [NFTs](https://vncnt.xyz)
         - HTML, CSS, Javascript, SVG and other interactive NFTs
 - Experiments with generative and AI systems (stylegan,vqgan,diffusion)
 - Raspberry pi, node-red and environmental data sensing
