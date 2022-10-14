@@ -32,7 +32,7 @@
 2015 Whether Forecasting, Modelling Current Conditions, French Restaurant, Montreal, QC  
 2012 pr0n, Galerie Pangée, Montreal, QC  
   
-#### Conferences/Workshop
+#### Conferences/Workshops
 2022 Environmental Data Perceptualization, ISEA2022, CCCB, Barcelona, Spain  
 2016 Data ecology, University of the Visual and Performing Arts, Colombo, Sri Lanka  
 2016 Creative Data : inputs & outputs, Atelier La Source du Lion, Casablanca, Morocco  
