@@ -10,11 +10,11 @@
 
 ### Education
 - 2019 Master in Advanced Ecological Buildings & Biocities  
-        Institute for Advanced Architecture of Catalonia
+        Institute for Advanced Architecture of Catalonia  
 - 2012 BFA Intermedia & Cyber arts  
-        Concordia University
+        Concordia University  
 - 2006 College diploma in Communications and Media Studies  
-        Cégep du Vieux-Montréal
+        Cégep du Vieux-Montréal  
 
 
 ### Art Projects
@@ -56,8 +56,8 @@
 2012 Eternal Internet Brotherhood/Sisterhood, Anafi, Greece  
   
 #### Web sites
-2022 [postvisions](https://postvis.io)
-2021 [Je me souviens](https://www.couvre-feu.quebec/)
+2022 [postvisions](https://postvis.io)  
+2021 [Je me souviens](https://www.couvre-feu.quebec/)  
 2018 [nodes](https://vincentcharlebois.net//nodes.html)  
 2017 [MCCM;nodes](https://tripledoublev.net)  
 2016 [Rhytidome](https://tripledoublev.net/rhytidome)  
