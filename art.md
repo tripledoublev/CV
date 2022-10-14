@@ -5,24 +5,10 @@
 - 10 years of creative thinking  
 - A multitude of digital experiments  
 - Worked on 3 continents  
-- Prototyping specialist  
 - Over a million trees planted
-- Strong interest in creative tools & systems
+- Strong interest in creative tools & distributed systems
+- Web Accessibility Specialist
 
-### Technical skills
-
-- HTML, CSS, PHP & JavaScript 
-- web accessibility standards
-- 3d scanning, rapid prototyping and additive manufacturing
-- Python and shell scripts 
-- Generative and AI systems
-- Raspberry pi, node-red and sensing
-- Git, Jira/Confluence
-- Max/MSP & Jitter 
-- Rhinoceros/ Grasshopper
-- Adobe, Microsoft and Google suite
-- Kirby, Wordpress and Drupal CMS
-- Audiovisual editing and processing
 
 ### Education
 - 2019 Master in Advanced Ecological Buildings & Biocities  
@@ -72,6 +58,8 @@
 2012 Eternal Internet Brotherhood/Sisterhood, Anafi, Greece  
   
 #### Web sites
+2022 [postvisions](https://postvis.io)
+2021 [Je me souviens](https://www.couvre-feu.quebec/)
 2018 [nodes](https://vincentcharlebois.net//nodes.html)  
 2017 [MCCM;nodes](https://tripledoublev.net)  
 2016 [Rhytidome](https://tripledoublev.net/rhytidome)  
