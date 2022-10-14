@@ -1,4 +1,4 @@
-## Artist-researcher and Creative Technologist
+## Artist-researcher, Front-end Developer and Creative Technologist
   
 ### Github: [tripledoublev](https://github.com/tripledoublev/)
 ### Email: [vincent@charlebois.info](mailto:vincentcharlebois@gmail.com)
@@ -18,7 +18,7 @@
 
 ### Summary of technical skills
 - HTML, CSS, PHP & JavaScript 
-- Python
+- Python and Web3.py
 - React.js 
 - Bootstrap and Tailwind
 - Git and pull request based workflows
