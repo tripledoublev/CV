@@ -10,11 +10,11 @@
 
 ### Education
 - 2019 Master in Advanced Ecological Buildings & Biocities  
-        Institute for Advanced Architecture of Catalonia\
+        Institute for Advanced Architecture of Catalonia
 - 2012 BFA Intermedia & Cyber arts  
-        Concordia University\
+        Concordia University
 - 2006 College diploma in Communications and Media Studies  
-        Cégep du Vieux-Montréal\
+        Cégep du Vieux-Montréal
 
 
 ### Art Projects
