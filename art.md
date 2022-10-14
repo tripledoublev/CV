@@ -1,6 +1,4 @@
-## Vincent 
-### Interdisciplinary artist,  
-### Researcher and Creative Technologist
+## Interdisciplinary Artist, Researcher and Creative Technologist
 
 - 10 years of creative thinking  
 - A multitude of digital experiments  
