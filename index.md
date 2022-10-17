@@ -1,4 +1,4 @@
-## Artist-researcher, Front-end Developer and Creative Technologist
+## Artist-researcher, Front End Developer and Creative Technologist
   
 ### Github: [tripledoublev](https://github.com/tripledoublev/)
 ### Email: [vincent@charlebois.info](mailto:vincentcharlebois@gmail.com)
