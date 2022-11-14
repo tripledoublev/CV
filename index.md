@@ -4,6 +4,10 @@
 ### Email: [vincent@charlebois.info](mailto:vincentcharlebois@gmail.com)
 ### Portfolio: [vincentcharlebois.net](https:vincentcharlebois.net)
 
+### Current position (since November 2022)
+- Front End Developer with [Hypha Worker Co-operative](https://hypha.coop)
+    * Collaborating with communities to build better relationships with technology.
+
 
 ### Key skills  
 - Critical, creative & strategic thinking 
@@ -17,7 +21,7 @@
 
 
 ### Summary of technical skills
-- HTML, CSS, PHP & JavaScript 
+- HTML, CSS & JavaScript 
 - Python and Web3.py
 - React.js 
 - Bootstrap and Tailwind
@@ -27,19 +31,8 @@
 - Jira and Confluence
 - Node.js
 
-
-### Current position (since November 2022)
-- Front End Developer with [Hypha Worker Co-operative](https://hypha.coop)
-    * Collaborating with communities to build better relationships with technology.
-
  
 ### Recent web projects
-* [Try Leather](https://tryleather.net) (on-going)
-    - Design and development with [autofirm](https://autofirm.biz)
-    - HTML, CSS, PHP and JavaScript
-    - Kirby and Bootstrap
-    - Git with merge request workflow
-    
     
 * [Am I at the studio?](https://vincent.charlebois.info/am-i/)
     - Personal web site that gets updated whenever I enter or leave the studio
@@ -110,6 +103,8 @@
 2012 Eternal Internet Brotherhood/Sisterhood, Anafi, Greece  
   
 #### Web sites
+2022 [postvisions](https://www.postvis.io/ns/)
+2021 [décompte](https://www.couvre-feu.quebec/)
 2018 [nodes](https://vincentcharlebois.net//nodes.html)  
 2017 [MCCM;nodes](https://tripledoublev.net)  
 2016 [Rhytidome](https://tripledoublev.net/rhytidome)  
@@ -171,30 +166,6 @@
  - 2021 - 2022 Web Specialist and Multimedia Coordinator with the Digital Initiatives at the McGill University Library
  - 2019 - 2020 Production & Operations Manager at Fablab inc, a 3d printing start-up
  - 2012 - 2018 Project manager for Reforestation projects with multiple Canadian Silviculture companies
-
-
-### Other websites
-* [postvisions](https://www.postvis.io/ns/) 2022
-    - Front-end Design and Development 
-    - Website for an art exhibition Jan to May 2022
-    - HTML, CSS, Javascript
-
-* [Celia Perrin Sidarous](https://www.celia-perrin-sidarous.com/) 2021
-    - Design and Development
-    - Simple website for an artist 
-    - HTML, CSS, Javascript
-
-* [aux points](https://www.auxpoints.com/) 2020
-    - Website built for an arts & culture collective
-    - HTML, CSS, Javascript
-
-* [niu haus](https://niu-haus.com) 2019
-    - Designed and programmed this website for my master's thesis project
-    - HTML, CSS
-
-* [tripledoublev.net](https://tripledoublev.net/) 2017
-    - Designed and programmed this website to show the data for my personal project [*nodes*](https://vincentcharlebois.net/nodes.html)
-    - HTML, CSS
 
 ### Education
 - 2019 Master in Advanced Ecological Buildings & Biocities  
