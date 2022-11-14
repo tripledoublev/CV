@@ -28,15 +28,7 @@
     * Collaborer avec les communautés afin de construire de meilleures relations avec la technologie.  
 
 
-### Divers projets récents
-* [Try Leather](https://tryleather.net) (en cours)
-    - Création d'un site web comme archive du projet Try Leather de Margaret Dragu
-    - Design et programmation web à titre de développeur en partenariat avec [autofirm](https://autofirm.biz)
-    - HTML, CSS, PHP et JavaScript
-    - Kirby et Bootstrap
-    - Git 
-    
-    
+### Divers projets récent    
 * [Am I at the studio?](https://vincent.charlebois.info/am-i/)
     - Site web personnel voué à la manifestion numérique d'une présence physique
     - HTML, CSS et Javascript 
@@ -46,7 +38,6 @@
     - Contrat Intelligent en Solidity
     - Github actions
 
-  
 * [Consecutive days at the studio](https://vincent.charlebois.info/consecutive-days/) (on-going)
     - Projet sonore personnel qui génère des fichiers HTML à partir de mes données de feuille de temps
     - Python, HTML, CSS, Javascript
@@ -108,27 +99,14 @@
 
 ### Autres projets web
 * [postvisions](https://www.postvis.io/ns/) 2022
-    - Design Front-end, programmation and développement web 
+    - Design Front-end, programmation et développement web 
     - Site web pour une exposition en art actuel de Janvier à Mai 2022
     - HTML, CSS, Javascript
-
-* [Celia Perrin Sidarous](https://www.celia-perrin-sidarous.com/) 2021
-    - Design et Développement
-    - Site web pour une artiste en arts visuels 
-    - HTML, CSS, Javascript
-
-* [aux points](https://www.auxpoints.com/) 2020
-    - Site web pour un organisme culturel
-    - HTML, CSS, Javascript
-
-* [niu haus](https://niu-haus.com) 2019
-    - Design et programmation du site web pour mon projet de maîtrise
-    - HTML, CSS
-
-* [tripledoublev.net](https://tripledoublev.net/) 2017
-    - Design et programmation d'un site web mettant en scène différentes visualizations environnementales pour le projet [*nodes*](https://vincentcharlebois.net/nodes.html)
-    - HTML, CSS
-
+* [weather report](https://vincent.charlebois.info/weather/report.html)
+    - Visualization des données météo au studio
+    - Archive météo
+    - Raspberry pi, Senseurs enviro, HTML, CSS, Javascript
+    
 ### Éducation
 - 2019 Maîtrise en Architecture (*Advanced Ecological Buildings & Biocities*)  
         Institute for Advanced Architecture of Catalonia  
