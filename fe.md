@@ -21,19 +21,10 @@
 - Knowledge of blockchain and p2p technologies
 - Abode Creative Suite (Photoshop, Illustrator, InDesign)
 
+### Current position (since November 2022)
+- Front End Developer with [Hypha Worker Co-operative](https://hypha.coop)
+    * Collaborating with communities to build better relationships with technology.
 
-### Current position (since March 2021)
-- Web Specialist/Multimedia Coordinator with the Digital Initiatives at the McGill University Library
-    * **HTML, CSS** 
-        - Implement components for a variety of custom Library websites with the [McGill Design System](https://gitlab.ncs.mcgill.ca/wsg-public/mcgill-ds) 
-        - Design and program interfaces for Drupal and Wordpress-based web exhibitions and other Library websites 
-    * **Communications and coordination**
-        - Facilitate communications between developers and librarians.
-        - Tracking issues and processes with Jira, Confluence and Bitbucket
-    * **Improvements, best practices and redesigns**
-        - Ensure the Library's websites meet the latest accessibility standards.
-        - Tracking and visualizations of usage statistics
-        - Content audit and UX research
 
  
 ### Recent web projects
@@ -77,6 +68,7 @@
 - Adobe, Microsoft and Google suite
 
 ### Previous positions 
+ - 2021 - 2022 Web Specialist and Multimedia Coordinator with the Digital Initiatives at the McGill University Library
  - 2019 - 2020 Production & Operations Manager at Fablab inc, a 3d printing start-up
  - 2012 - 2018 Project manager for Reforestation projects with multiple Canadian Silviculture companies
 

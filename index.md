@@ -28,18 +28,9 @@
 - Node.js
 
 
-### Current position (since March 2021)
-- **Web Specialist** and Multimedia Coordinator with the Digital Initiatives at the McGill University Library
-    * **HTML, CSS** 
-        - Implement components for a variety of custom Library websites with the [McGill Design System](https://gitlab.ncs.mcgill.ca/wsg-public/mcgill-ds) 
-        - Design and program interfaces for Drupal and Wordpress-based web exhibitions and other Library websites 
-    * **Communications and coordination**
-        - Facilitate communications between developers and librarians.
-        - Tracking issues and processes with Jira, Confluence and Bitbucket
-    * **Improvements, best practices and redesigns**
-        - Ensure the Library's websites meet the latest accessibility standards.
-        - Tracking and visualizations of usage statistics
-        - Content audit and UX research
+### Current position (since November 2022)
+- Front End Developer with [Hypha Worker Co-operative](https://hypha.coop)
+    * Collaborating with communities to build better relationships with technology.
 
  
 ### Recent web projects
@@ -79,77 +70,6 @@
       > if 'curfew is over', display 'time since the curfew was lifted'.   
       
 
-
-
-### Additional Skills
-- Blockchain experience: 
-    * DAOs
-        - DAO Member and contributor
-        - Kernel block 5 fellow
-    * [Timesheet](#recent-web-projects):
-        - Wrote my own [Solidity Smart Contract](https://optimistic.etherscan.io/address/0xaf6c153972fbc7d67feaa9f9d1d08f3c13f79773#code)
-        - Python interface with [Web3.py](https://github.com/tripledoublev/timesheet/blob/master/w3py/toggle.py)
-        - [Front-end web app](https://vincent.charlebois.info/am-i) with Ethers.js
-    * [NFTs](#nft-experiments)
-        - HTML, CSS, Javascript, SVG and other interactive NFTs
-- Generative and AI systems 
-    * Stylegan
-    * VQGAN-Clip
-    * Different diffusion models
-- Raspberry pi, node-red and environmental data sensing
-    * Enviro board by Pimonori
-    * A node-red web app to fetch weather data from my cloud-connected weather station
-- Digital Fabrication
-    * 3d printing
-    * Rapid prototyping
-    * 3d scanning and photogrammetry
-- Max/MSP & Jitter 
-- Rhinoceros/ Grasshopper
-- Kirby, Wordpress and Drupal CMS
-- Audiovisual editing and processing
-- Adobe, Microsoft and Google suite
-
-### Previous positions 
- - 2019 - 2020 Production & Operations Manager at Fablab inc, a 3d printing start-up
- - 2012 - 2018 Project manager for Reforestation projects with multiple Canadian Silviculture companies
-
-
-### Other websites
-* [postvisions](https://www.postvis.io/ns/) 2022
-    - Front-end Design and Development 
-    - Website for an art exhibition Jan to May 2022
-    - HTML, CSS, Javascript
-
-* [Celia Perrin Sidarous](https://www.celia-perrin-sidarous.com/) 2021
-    - Design and Development
-    - Simple website for an artist 
-    - HTML, CSS, Javascript
-
-* [aux points](https://www.auxpoints.com/) 2020
-    - Website built for an arts & culture collective
-    - HTML, CSS, Javascript
-
-* [niu haus](https://niu-haus.com) 2019
-    - Designed and programmed this website for my master's thesis project
-    - HTML, CSS
-
-* [tripledoublev.net](https://tripledoublev.net/) 2017
-    - Designed and programmed this website to show the data for my personal project [*nodes*](https://vincentcharlebois.net/nodes.html)
-    - HTML, CSS
-
-### Education
-- 2019 Master in Advanced Ecological Buildings & Biocities  
-        Institute for Advanced Architecture of Catalonia  
-
-- 2012 BFA Intermedia & Cyber arts  
-        Concordia University  
-
-- 2006 College diploma in Communications and Media Studies  
-        Cégep du Vieux-Montréal    
-  
-### NFT experiments
-- [vncnt.xyz](https://vncnt.xyz)
-
 ### Art Projects
 
 #### Solo exhibition
@@ -167,6 +87,7 @@
   
 #### Conferences/Workshop
 2022 Environmental Data Perceptualization, ISEA2022, CCCB, Barcelona, Spain  
+2022 Current conditions; drawing the weather, Quai 5160, Montreal, QC  
 2016 Data ecology, University of the Visual and Performing Arts, Colombo, Sri Lanka  
 2016 Creative Data : inputs & outputs, Atelier La Source du Lion, Casablanca, Morocco  
 2015 Art, nature et technologies, Concordia University, Montreal  
@@ -216,3 +137,75 @@
 - [dot com](https://vincentcharlebois.com)  
 - [dot net](https://vincentcharlebois.net)  
 - [dot info](https://vincent.charlebois.info)  
+
+
+### Additional Skills
+- Blockchain experience: 
+    * DAOs
+        - DAO Member and contributor
+        - Kernel block 5 fellow
+    * [Timesheet](#recent-web-projects):
+        - Wrote my own [Solidity Smart Contract](https://optimistic.etherscan.io/address/0xaf6c153972fbc7d67feaa9f9d1d08f3c13f79773#code)
+        - Python interface with [Web3.py](https://github.com/tripledoublev/timesheet/blob/master/w3py/toggle.py)
+        - [Front-end web app](https://vincent.charlebois.info/am-i) with Ethers.js
+    * [NFTs](#nft-experiments)
+        - HTML, CSS, Javascript, SVG and other interactive NFTs
+- Generative and AI systems 
+    * Stylegan
+    * VQGAN-Clip
+    * Different diffusion models
+- Raspberry pi, node-red and environmental data sensing
+    * Enviro board by Pimonori
+    * A node-red web app to fetch weather data from my cloud-connected weather station
+- Digital Fabrication
+    * 3d printing
+    * Rapid prototyping
+    * 3d scanning and photogrammetry
+- Max/MSP & Jitter 
+- Rhinoceros/ Grasshopper
+- Kirby, Wordpress and Drupal CMS
+- Audiovisual editing and processing
+- Adobe, Microsoft and Google suite
+
+### Previous positions 
+ - 2021 - 2022 Web Specialist and Multimedia Coordinator with the Digital Initiatives at the McGill University Library
+ - 2019 - 2020 Production & Operations Manager at Fablab inc, a 3d printing start-up
+ - 2012 - 2018 Project manager for Reforestation projects with multiple Canadian Silviculture companies
+
+
+### Other websites
+* [postvisions](https://www.postvis.io/ns/) 2022
+    - Front-end Design and Development 
+    - Website for an art exhibition Jan to May 2022
+    - HTML, CSS, Javascript
+
+* [Celia Perrin Sidarous](https://www.celia-perrin-sidarous.com/) 2021
+    - Design and Development
+    - Simple website for an artist 
+    - HTML, CSS, Javascript
+
+* [aux points](https://www.auxpoints.com/) 2020
+    - Website built for an arts & culture collective
+    - HTML, CSS, Javascript
+
+* [niu haus](https://niu-haus.com) 2019
+    - Designed and programmed this website for my master's thesis project
+    - HTML, CSS
+
+* [tripledoublev.net](https://tripledoublev.net/) 2017
+    - Designed and programmed this website to show the data for my personal project [*nodes*](https://vincentcharlebois.net/nodes.html)
+    - HTML, CSS
+
+### Education
+- 2019 Master in Advanced Ecological Buildings & Biocities  
+        Institute for Advanced Architecture of Catalonia  
+
+- 2012 BFA Intermedia & Cyber arts  
+        Concordia University  
+
+- 2006 College diploma in Communications and Media Studies  
+        Cégep du Vieux-Montréal    
+  
+### NFT experiments
+- [vncnt.xyz](https://vncnt.xyz)
+

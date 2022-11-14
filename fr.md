@@ -1,4 +1,4 @@
-## Développeur front-end en visualisation de données
+## Développeur front-end
 
 ### Github: [tripledoublev](https://github.com/tripledoublev/)
 ### Email: [vincent@charlebois.info](mailto:vincentcharlebois@gmail.com)
@@ -23,22 +23,10 @@
 - Expérience avec Git dans un contexte de travail basé sur les *Pull Requests*
 - Expérience avec Jira et Confluence
 
-### Poste actuel (depuis mars 2021)
-- Spécialiste web et coordonnateur multimédia au sein des *Initiatives numériques* à la bibliothèque de l'université McGill
-    * **HTML, CSS** 
-        - Design et programmation d'interface web informationnelle pour les usagers.
-           * Mise en données des données de fréquentation
-           * Mise en image des disponibilités d'espace de travail à la bibliothèque 
-        - Implémenter les composants front-end du [McGill Design System](https://gitlab.ncs.mcgill.ca/wsg-public/mcgill-ds) pour divers sites de la bibliothèque
-        - Concevoir les composants visuels et les interfaces des expositions numériques créées par l'équipe de la bibliothèque
-        - Développer des expériences web conformément aux standards d'accesibilité
-    * **Communications et coordination**
-        - Faciliter les communications entre développeurs et bibliothécaires.
-        - Faire le suivi des taches et des procédés avec Jira, Confluence et Gitlab
-    * **Améliorations, meilleurs pratiques et refonte des expériences web**
-        - Assurer que la présence web de la bibliothèque atteigne les plus hauts standards d'accesibilité du web 
-        - Mise en données et visualisations des statistiques sur l'utilisation du site de la bibliothèque
-        - Audit du contenu web et recherche UX
+### Poste actuel (depuis novembre 2022)
+ - Développeur front-end avec [Hypha](https://hypha.coop), une coopérative de travailleurs  
+    * Collaborer avec les communautés afin de construire de meilleures relations avec la technologie.  
+
 
 ### Divers projets récents
 * [Try Leather](https://tryleather.net) (en cours)
@@ -83,6 +71,22 @@
 
 
 ### Emplois précédents 
+- Spécialiste web et coordonnateur multimédia au sein des *Initiatives numériques* à la bibliothèque de l'université McGill
+    * **HTML, CSS** 
+        - Design et programmation d'interface web informationnelle pour les usagers.
+           * Mise en données des données de fréquentation
+           * Mise en image des disponibilités d'espace de travail à la bibliothèque 
+        - Implémenter les composants front-end du [McGill Design System](https://gitlab.ncs.mcgill.ca/wsg-public/mcgill-ds) pour divers sites de la bibliothèque
+        - Concevoir les composants visuels et les interfaces des expositions numériques créées par l'équipe de la bibliothèque
+        - Développer des expériences web conformément aux standards d'accesibilité
+    * **Communications et coordination**
+        - Faciliter les communications entre développeurs et bibliothécaires.
+        - Faire le suivi des taches et des procédés avec Jira, Confluence et Gitlab
+    * **Améliorations, meilleurs pratiques et refonte des expériences web**
+        - Assurer que la présence web de la bibliothèque atteigne les plus hauts standards d'accesibilité du web 
+        - Mise en données et visualisations des statistiques sur l'utilisation du site de la bibliothèque
+        - Audit du contenu web et recherche UX
+
  - 2020 - 2021 Gestionnaire des opérations et de la production, Fablab inc
     * Spécialiste du prototypage rapide, de la numérisation et de l'impression 3d
     * Communications des besoins des clients à l'équipe d'ingénierie  
