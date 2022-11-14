@@ -1,43 +1,29 @@
-## Vincent 
-### Interdisciplinary artist,  
-### Researcher and Creative Technologist
+## Interdisciplinary Artist, Researcher and Creative Technologist
 
 - 10 years of creative thinking  
 - A multitude of digital experiments  
 - Worked on 3 continents  
-- Prototyping specialist  
 - Over a million trees planted
-- Strong interest in creative tools & systems
+- Strong interest in creative tools & distributed systems
+- Web Accessibility Specialist
 
-### Technical skills
-
-- HTML, CSS, PHP & JavaScript 
-- web accessibility standards
-- 3d scanning, rapid prototyping and additive manufacturing
-- Python and shell scripts 
-- Generative and AI systems
-- Raspberry pi, node-red and sensing
-- Git, Jira/Confluence
-- Max/MSP & Jitter 
-- Rhinoceros/ Grasshopper
-- Adobe, Microsoft and Google suite
-- Kirby, Wordpress and Drupal CMS
-- Audiovisual editing and processing
 
 ### Education
 - 2019 Master in Advanced Ecological Buildings & Biocities  
-        Institute for Advanced Architecture of Catalonia\
+        Institute for Advanced Architecture of Catalonia  
 - 2012 BFA Intermedia & Cyber arts  
-        Concordia University\
+        Concordia University  
 - 2006 College diploma in Communications and Media Studies  
-        Cégep du Vieux-Montréal\
-    
-### Art+Design+Tech
+        Cégep du Vieux-Montréal  
+
+
+### Art Projects
+
 #### Solo exhibition
 2022 Conditions actuelles, Quai 5160, Montreal, QC  
   
 #### Group exhibitions
-2022 Toil, and a Peaceful Life, Pumice Raft, Toronto, ON 
+2022 Toil, and a Peaceful Life, Pumice Raft, Toronto, ON   
 2019 The Yard, The The The, Toronto, ON  
 2017 Something about Plants and Cables, Ostavinska Galerija, Belgrade, Serbia  
 2017 Residency, Jetrichovice, Czech Republic (organised by New Scenario)  
@@ -46,8 +32,9 @@
 2015 Whether Forecasting, Modelling Current Conditions, French Restaurant, Montreal, QC  
 2012 pr0n, Galerie Pangée, Montreal, QC  
   
-#### Conferences/Workshop
-2022 Environmental Data Perceptualization, ISEA2022, CCCB, Barcelona, Spain
+#### Conferences/Workshops
+2022 Environmental Data Perceptualization, ISEA2022, CCCB, Barcelona, Spain  
+2022 Current conditions; drawing the weather, Quai 5160, Montreal, QC
 2016 Data ecology, University of the Visual and Performing Arts, Colombo, Sri Lanka  
 2016 Creative Data : inputs & outputs, Atelier La Source du Lion, Casablanca, Morocco  
 2015 Art, nature et technologies, Concordia University, Montreal  
@@ -70,10 +57,12 @@
 2012 Eternal Internet Brotherhood/Sisterhood, Anafi, Greece  
   
 #### Web sites
-2018 nodes, https://vincentcharlebois.com/nodes.html  
-2017 MCCM;nodes, https://tripledoublev.net  
-2016 Rhytidome, https://tripledoublev.net/rhytidome  
-2015 if 2 words, https://tripledoublev.com/scroll  
+2022 [postvisions](https://postvis.io)  
+2021 [Je me souviens](https://www.couvre-feu.quebec/)  
+2018 [nodes](https://vincentcharlebois.net//nodes.html)  
+2017 [MCCM;nodes](https://tripledoublev.net)  
+2016 [Rhytidome](https://tripledoublev.net/rhytidome)  
+2015 [if 2 words](https://tripledoublev.com/scroll)  
   
 #### Screenings
 2012 Une soirée de projections, Astérides12, Marseille, France  
@@ -92,3 +81,9 @@
 2014 [AQNB](https://www.aqnb.com/2014/03/31/an-interview-with-vincent-charlebois/): An Interview With Vincent Charlebois by Eva Folks  
 2012 [Rhizome](https://rhizome.org/editorial/2012/aug/27/eternal-internet-brotherhood/) :The Eternal Internet Brotherhood by Joanne McNeil  
   
+
+### Web
+- [dot com](https://vincentcharlebois.com)  
+- [dot net](https://vincentcharlebois.net)  
+- [dot info](https://vincent.charlebois.info)  
+- [dot xyz](https://vncnt.xyz)  
