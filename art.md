@@ -42,6 +42,7 @@
   
 ### Web sites
 2023 [Couleurs de Montreal](https://vncnt.xyz/CouleurMontreal/)
+2023 [Consecutive days at the studio](https://vincent.charlebois.info/consecutive-days/)
 2022 [postvisions](https://postvis.io)  
 2021 [Je me souviens](https://www.couvre-feu.quebec/)  
 2018 [nodes](https://vincentcharlebois.net//nodes.html)  
