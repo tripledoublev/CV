@@ -5,6 +5,13 @@
 ### Portfolio: [vincentcharlebois.net](https://vincentcharlebois.net)
 ### Descriptif: [charlebois.info](https://vincent.charlebois.info/fr)
 
+### Position actuelle (depuis novembre 2022)
+- **Développeur Front End** au sein de la coopérative de travailleur [HYPHA](https://hypha.coop)
+    - Collaboration avec les communautés pour construire de meilleures relations avec la technologie.
+
+**La coopérative de travailleur HYPHA** collabore avec les communautés pour construire de meilleures relations avec la technologie. Ils se concentrent sur la propagation de la gestion dirigée par la communauté, le développement des capacités techniques et la livraison de concepts et de produits. Leur expertise s'étend de l'idéation à l'infrastructure. Ils croient que les technologies peer-to-peer transformeront la collaboration numérique traditionnelle. Ils ont une équipe composée de technologues, de designers et d'organisateurs communautaires qui valorisent le travail avec des partenaires orientés vers une mission. Leurs valeurs fondamentales reflètent leur approche pour cultiver des écologies technologiques respectueuses et démocratiques.
+
+
 ### Profil
 - Spécialiste de la mise en récit des données
 - Intérêt marqué pour l'information et l'innovation numérique
@@ -17,16 +24,11 @@
 - Connaissance de la cartographie et des données géolocalisées
 - Maîtrise de HTML5, CSS/SCSS (Bootstrap et Tailwind)
 - Expérience avec Python et la gestion de données
-- Connaissance de React
+- Connaissance de React et Svelte
 - Connaissance des bases de données non relationnelles
 - Maîtrise de la Suite créative Adobe (Photoshop, Illustrator, InDesign)
 - Expérience avec Git dans un contexte de travail basé sur les *Pull Requests*
 - Expérience avec Jira et Confluence
-
-### Poste actuel (depuis novembre 2022)
- - Développeur front-end avec [Hypha](https://hypha.coop), une coopérative de travailleurs  
-    * Collaborer avec les communautés afin de construire de meilleures relations avec la technologie.  
-
 
 ### Divers projets récent    
 * [Am I at the studio?](https://vincent.charlebois.info/am-i/)
