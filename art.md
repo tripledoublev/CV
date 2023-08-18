@@ -30,7 +30,7 @@
   
 ### Residencies
 2023 WILD: Season 2, online and New Orleans, USA  
-2023 Poetics of Synthetic Language, online and Milan, Italy  
+2023 Poetics of Synthetic Language, UKAI Projects, online and Milan, Italy  
 2017 Ostavinska Galerija, Belgrade, Serbia  
 2017 New Scenario, Jetrichovice, Czech Republic  
 2016 Theertha’s Red Dot Gallery, Colombo, Sri Lanka  
