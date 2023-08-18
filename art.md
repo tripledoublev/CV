@@ -22,15 +22,15 @@
 2012 World Wide Web : l’art sur le net, Eastern Bloc, Montreal, QC Canada  
   
 ### Performances
-2022-2023 [Am I at the Studio?](https://vincent.charlebois.info/am-i/), Online, on-chain
+2022-2023 [Am I at the Studio?](https://vincent.charlebois.info/am-i/), Online, on-chain  
 2017 I did not. I did not. I do not say that, World Money Gallery, Brooklyn, NY  
 2017 (TVP6000x2m)Trust me, Place Publique, Fonderie Darling, Montreal, QC  
 2016 NNNN, Interesting, Nadie Nunca Nada No, Madrid, Spain  
 2014 Le pelleteur de gravier, DARE-DARE, Montreal, QC  
   
 ### Residencies
-2023 WILD: Season 2, online and New Orleans, USA
-2023 Poetics of Synthetic Language, online and Milan, Italy
+2023 WILD: Season 2, online and New Orleans, USA  
+2023 Poetics of Synthetic Language, UKAI Projects, online and Milan, Italy  
 2017 Ostavinska Galerija, Belgrade, Serbia  
 2017 New Scenario, Jetrichovice, Czech Republic  
 2016 Theertha’s Red Dot Gallery, Colombo, Sri Lanka  
@@ -41,8 +41,8 @@
 2012 Eternal Internet Brotherhood/Sisterhood, Anafi, Greece  
   
 ### Web sites
-2023 [Couleurs de Montreal](https://vncnt.xyz/CouleurMontreal/)
-2023 [Consecutive days at the studio](https://vincent.charlebois.info/consecutive-days/)
+2023 [Couleurs de Montreal](https://vncnt.xyz/CouleurMontreal/)  
+2023 [Consecutive days at the studio](https://vincent.charlebois.info/consecutive-days/)  
 2022 [postvisions](https://postvis.io)  
 2021 [Je me souviens](https://www.couvre-feu.quebec/)  
 2018 [nodes](https://vincentcharlebois.net//nodes.html)  
@@ -61,7 +61,7 @@
 2014 Bosquet magazine #02  
   
 ### Web mentions
-2017 [ofluxo](https://www.ofluxo.net/new-scenarios-residency/) : New Scenario’s RESIDENCY  
+2017 [tzvetnik](https://tzvetnik.online/article/new-scenario-s-residency) : New Scenario’s RESIDENCY  
 2016 [Art Agenda](https://www.art-agenda.com/criticism/239530/experimental-education-protocol): Experimental Education Protocol by Tess Edmonson  
 2016 About Growing Forests and Data Patterns by Uwe Lützen  
 2014 [AQNB](https://www.aqnb.com/2014/03/31/an-interview-with-vincent-charlebois/): An Interview With Vincent Charlebois by Eva Folks  
