@@ -29,8 +29,8 @@
 2014 Le pelleteur de gravier, DARE-DARE, Montreal, QC  
   
 ### Residencies
-2023 WILD: Season 2, online and New Orleans, USA
-2023 Poetics of Synthetic Language, online and Milan, Italy
+2023 WILD: Season 2, online and New Orleans, USA  
+2023 Poetics of Synthetic Language, online and Milan, Italy  
 2017 Ostavinska Galerija, Belgrade, Serbia  
 2017 New Scenario, Jetrichovice, Czech Republic  
 2016 Theertha’s Red Dot Gallery, Colombo, Sri Lanka  
@@ -61,7 +61,7 @@
 2014 Bosquet magazine #02  
   
 ### Web mentions
-2017 [ofluxo](https://www.ofluxo.net/new-scenarios-residency/) : New Scenario’s RESIDENCY  
+2017 [tzvetnik](https://tzvetnik.online/article/new-scenario-s-residency) : New Scenario’s RESIDENCY  
 2016 [Art Agenda](https://www.art-agenda.com/criticism/239530/experimental-education-protocol): Experimental Education Protocol by Tess Edmonson  
 2016 About Growing Forests and Data Patterns by Uwe Lützen  
 2014 [AQNB](https://www.aqnb.com/2014/03/31/an-interview-with-vincent-charlebois/): An Interview With Vincent Charlebois by Eva Folks  
