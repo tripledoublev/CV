@@ -15,7 +15,7 @@
   
 ### Conferences/Workshops
 2022 Environmental Data Perceptualization, ISEA2022, CCCB, Barcelona, Spain  
-2022 Current conditions; drawing the weather, Quai 5160, Montreal, QC
+2022 Current conditions; drawing the weather, Quai 5160, Montreal, QC  
 2016 Data ecology, University of the Visual and Performing Arts, Colombo, Sri Lanka  
 2016 Creative Data : inputs & outputs, Atelier La Source du Lion, Casablanca, Morocco  
 2015 Art, nature et technologies, Concordia University, Montreal  
