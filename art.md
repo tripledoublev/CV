@@ -22,7 +22,7 @@
 2012 World Wide Web : l’art sur le net, Eastern Bloc, Montreal, QC Canada  
   
 ### Performances
-2022-2023 [Am I at the Studio?](https://vincent.charlebois.info/am-i/), Online, on-chain
+2022-2023 [Am I at the Studio?](https://vincent.charlebois.info/am-i/), Online, on-chain  
 2017 I did not. I did not. I do not say that, World Money Gallery, Brooklyn, NY  
 2017 (TVP6000x2m)Trust me, Place Publique, Fonderie Darling, Montreal, QC  
 2016 NNNN, Interesting, Nadie Nunca Nada No, Madrid, Spain  
