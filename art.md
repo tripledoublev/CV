@@ -4,6 +4,7 @@
 2022 Conditions actuelles, Quai 5160, Montreal, QC  
   
 ### Group exhibitions
+2024 Art Souterrain en collaboration avec le FIFA, Place Ville Marie, Montréal, QC
 2022 Toil, and a Peaceful Life, Pumice Raft, Toronto, ON   
 2019 The Yard, The The The, Toronto, ON  
 2017 Something about Plants and Cables, Ostavinska Galerija, Belgrade, Serbia  
@@ -51,6 +52,7 @@
 2015 [if 2 words](https://tripledoublev.com/scroll)  
   
 ### Screenings
+2024 Festival International du Film sur l’Art, Quartier des spectacles, Montréal, QC
 2012 Une soirée de projections, Astérides12, Marseille, France  
 2012 Kinoautomat, Cinémathèque Québécoise, Montreal, QC Canada  
   
