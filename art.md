@@ -31,7 +31,6 @@
   
 ### Residencies
 2023 WILD: Season 2, online and New Orleans, USA  
-2023 Poetics of Synthetic Language, UKAI Projects, online and Milan, Italy  
 2017 Ostavinska Galerija, Belgrade, Serbia  
 2017 New Scenario, Jetrichovice, Czech Republic  
 2016 Theertha’s Red Dot Gallery, Colombo, Sri Lanka  
@@ -42,7 +41,7 @@
 2012 Eternal Internet Brotherhood/Sisterhood, Anafi, Greece  
   
 ### Web sites
-2023 [Couleurs de Montreal](https://vncnt.xyz/CouleurMontreal/)  
+2023 [Couleurs de Montreal](https://tripledoublev.com/couleur)  
 2023 [Consecutive days at the studio](https://vincent.charlebois.info/consecutive-days/)  
 2022 [postvisions](https://postvis.io)  
 2021 [Je me souviens](https://www.couvre-feu.quebec/)  
