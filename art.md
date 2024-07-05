@@ -57,7 +57,7 @@
   
 ### Print
 2017 ETC media magazine #110   
-2017 Sound Development City, Publication  
+2017 Sound Development City, Publication, [PDF](https://charlebois.solutions/pdfs/SDC_2016_Publication-Digital-Charlebois_Vincent.pdf)  
 2015 Après tout Internet par Gregory Chatonsky, ETC media magazine #106  
 2014 Bosquet magazine #02  
   
