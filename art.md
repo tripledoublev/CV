@@ -41,7 +41,7 @@
 2012 Eternal Internet Brotherhood/Sisterhood, Anafi, Greece  
   
 ### Web sites
-2023 [Couleurs de Montreal](https://tripledoublev.com/couleur)  
+2024 [Couleur de Montréal](https://tripledoublev.com/couleur)  
 2023 [Consecutive days at the studio](https://vincent.charlebois.info/consecutive-days/)  
 2022 [postvisions](https://postvis.io)  
 2021 [Je me souviens](https://www.couvre-feu.quebec/)  
@@ -62,14 +62,14 @@
 2014 Bosquet magazine #02  
   
 ### Web mentions
+2023 [Rhizome](https://rhizome.org/editorial/2023/feb/02/announcing-some-tumblrs/): Announcing Some Tumblrs!  
 2017 [tzvetnik](https://tzvetnik.online/article/new-scenario-s-residency) : New Scenario’s RESIDENCY  
 2016 [Art Agenda](https://www.art-agenda.com/criticism/239530/experimental-education-protocol): Experimental Education Protocol by Tess Edmonson  
 2016 About Growing Forests and Data Patterns by Uwe Lützen  
 2014 [AQNB](https://www.aqnb.com/2014/03/31/an-interview-with-vincent-charlebois/): An Interview With Vincent Charlebois by Eva Folks  
 2012 [Rhizome](https://rhizome.org/editorial/2012/aug/27/eternal-internet-brotherhood/) :The Eternal Internet Brotherhood by Joanne McNeil  
-  
 
-### Web presence
+### Web presence  
 - [dot com](https://vincentcharlebois.com)  
 - [dot net](https://vincentcharlebois.net)  
 - [dot info](https://vincent.charlebois.info)  
