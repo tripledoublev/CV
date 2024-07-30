@@ -4,6 +4,7 @@
 2022 Conditions actuelles, Quai 5160, Montreal, QC  
   
 ### Group exhibitions
+2024 Art Souterrain en collaboration avec le FIFA, Place Ville Marie, Montréal, QC  
 2022 Toil, and a Peaceful Life, Pumice Raft, Toronto, ON   
 2019 The Yard, The The The, Toronto, ON  
 2017 Something about Plants and Cables, Ostavinska Galerija, Belgrade, Serbia  
@@ -30,7 +31,6 @@
   
 ### Residencies
 2023 WILD: Season 2, online and New Orleans, USA  
-2023 Poetics of Synthetic Language, UKAI Projects, online and Milan, Italy  
 2017 Ostavinska Galerija, Belgrade, Serbia  
 2017 New Scenario, Jetrichovice, Czech Republic  
 2016 Theertha’s Red Dot Gallery, Colombo, Sri Lanka  
@@ -41,7 +41,7 @@
 2012 Eternal Internet Brotherhood/Sisterhood, Anafi, Greece  
   
 ### Web sites
-2023 [Couleurs de Montreal](https://vncnt.xyz/CouleurMontreal/)  
+2024 [Couleur de Montréal](https://tripledoublev.com/couleur)  
 2023 [Consecutive days at the studio](https://vincent.charlebois.info/consecutive-days/)  
 2022 [postvisions](https://postvis.io)  
 2021 [Je me souviens](https://www.couvre-feu.quebec/)  
@@ -51,24 +51,25 @@
 2015 [if 2 words](https://tripledoublev.com/scroll)  
   
 ### Screenings
+2024 Festival International du Film sur l’Art, Quartier des spectacles, Montréal, QC
 2012 Une soirée de projections, Astérides12, Marseille, France  
 2012 Kinoautomat, Cinémathèque Québécoise, Montreal, QC Canada  
   
 ### Print
 2017 ETC media magazine #110   
-2017 Sound Development City, Publication  
+2017 Sound Development City, Publication, [PDF](https://charlebois.solutions/pdfs/SDC_2016_Publication-Digital-Charlebois_Vincent.pdf)  
 2015 Après tout Internet par Gregory Chatonsky, ETC media magazine #106  
 2014 Bosquet magazine #02  
   
 ### Web mentions
+2023 [Rhizome](https://rhizome.org/editorial/2023/feb/02/announcing-some-tumblrs/): Announcing Some Tumblrs!  
 2017 [tzvetnik](https://tzvetnik.online/article/new-scenario-s-residency) : New Scenario’s RESIDENCY  
 2016 [Art Agenda](https://www.art-agenda.com/criticism/239530/experimental-education-protocol): Experimental Education Protocol by Tess Edmonson  
 2016 About Growing Forests and Data Patterns by Uwe Lützen  
 2014 [AQNB](https://www.aqnb.com/2014/03/31/an-interview-with-vincent-charlebois/): An Interview With Vincent Charlebois by Eva Folks  
 2012 [Rhizome](https://rhizome.org/editorial/2012/aug/27/eternal-internet-brotherhood/) :The Eternal Internet Brotherhood by Joanne McNeil  
-  
 
-### Web presence
+### Web presence  
 - [dot com](https://vincentcharlebois.com)  
 - [dot net](https://vincentcharlebois.net)  
 - [dot info](https://vincent.charlebois.info)  
