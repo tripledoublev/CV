@@ -2,7 +2,7 @@
   
 ### Github: [tripledoublev](https://github.com/tripledoublev/)
 ### Email: [vincent@charlebois.info](mailto:vincentcharlebois@gmail.com)
-### Portfolio: [vincentcharlebois.net](https:vincentcharlebois.net)
+### Portfolio: [vincentcharlebois.net](https://svincentcharlebois.net)
 
 ### Current position (since November 2022)
 - Front End Developer with [Hypha Worker Co-operative](https://hypha.coop)
