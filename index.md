@@ -2,7 +2,7 @@
   
 ### Github: [tripledoublev](https://github.com/tripledoublev/)
 ### Email: [vincent@charlebois.info](mailto:vincentcharlebois@gmail.com)
-### Portfolio: [vincentcharlebois.net](https://svincentcharlebois.net)
+### Portfolio: [vincentcharlebois.net](https://vincentcharlebois.net)
 
 ### Current position (since November 2022)
 - Front End Developer with [Hypha Worker Co-operative](https://hypha.coop)
@@ -11,7 +11,8 @@
 
 ### Key skills  
 - Critical, creative & strategic thinking 
-- Knowledge of web3 and Ethereum development tools 
+- Knowledge of web3 and Ethereum develo![Uploading image.png…]()
+pment tools 
 - Decision making & prioritization
 - Great communicator for a variety of audiences
 - Solid knowledge of Accessibility standards  
