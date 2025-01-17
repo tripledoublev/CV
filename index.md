@@ -11,7 +11,7 @@
 
 ### Key skills  
 - Critical, creative & strategic thinking 
-- Knowledge of web3 and Ethereum develo![Uploading image.png…]()
+- Knowledge of web3 and Ethereum development
 pment tools 
 - Decision making & prioritization
 - Great communicator for a variety of audiences
