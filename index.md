@@ -5,14 +5,13 @@
 ### Portfolio: [vincentcharlebois.net](https://vincentcharlebois.net)
 
 ### Current position (since November 2022)
-- Front End Developer with [Hypha Worker Co-operative](https://hypha.coop)
+- Member-worker [Hypha Worker Co-operative](https://hypha.coop)
     * Collaborating with communities to build better relationships with technology.
 
 
 ### Key skills  
 - Critical, creative & strategic thinking 
-- Knowledge of web3 and Ethereum development
-pment tools 
+- Knowledge of web3 and Ethereum development tools 
 - Decision making & prioritization
 - Great communicator for a variety of audiences
 - Solid knowledge of Accessibility standards  
