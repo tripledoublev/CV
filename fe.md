@@ -1,78 +1,74 @@
-## Front End Developer
-  
-- Github: [tripledoublev](https://github.com/tripledoublev/)
-- Email: [vincent@charlebois.info](mailto:vincentcharlebois@gmail.com)
+## Frontend Developer
+
+* GitHub: [tripledoublev](https://github.com/tripledoublev)
+* Email: [vincent@charlebois.info](mailto:vincent@charlebois.info)
+
+### Key Skills
+
+* Critical, creative, and strategic thinking
+* Self-directed and values-driven problem-solver
+* Collaborative communicator and co-designer
+* Open source and digital sovereignty advocate
+* Comfortable navigating ambiguity and complexity
+
+### Technical Proficiencies
+
+* **Frontend**: HTML, CSS, JavaScript, React, Svelte, Next.js, Tailwind
+* **Tooling**: Git, GitHub Actions, Vite, Webpack, Node.js
+* **Data & Visualization**: SVG, D3.js, interactive and generative visual design
+* **UX & Accessibility**: semantic HTML, ARIA, keyboard nav, WCAG-aware component design, performance optimization
+* **CMS integration workflows**: Jekyll, markdown-first systems, custom editorial UIs
+* **Infra**: Python, Bash, Linux CLI, Docker
+* **Creative Tech**: generative art (SVG/AI), environmental sensing (Raspberry Pi + Node-RED)
+* **Web3 / P2P**: Solidity, Ethers.js, Web3.py, IPFS (Kubo & Helia), local-first architectures (UCAN)
+* **Other**: Adobe Suite, Figma, Jekyll, Markdown, Notion, GDocs
+
+### Community & Collaboration
+
+* Co-led workshops and co-design sessions as part of Hypha’s Co‑Creation Lab
+* Contributor to community-led open source projects
+* Experience working across disciplines with artists, researchers, and organizers
+
+### Current Role
+
+**Frontend Developer**, [Hypha Worker Co-operative](https://hypha.coop) (Nov 2022–present)  
+Collaborating on civic, artistic, and public interest tech projects with co-operatives, researchers, and media orgs as part of the Co‑Creation Lab practice area focused on arts, culture, and activism.
+
+#### Selected projects @ Hypha  
+
+* **[Global Dialogues Challenges](https://tripledoublev.github.io/global-dialogues/)** – experimental frontend + LLM integration as a narrative engine
+* **[countermap.land](https://countermap.land)** – fullstack development on a cartographic research tool
+* **[Splice Tool](https://activestewardship.org/splice/)** – frontend dev and visualization of environmental emissions
+* **[Friends of HEK](https://github.com/HyphaCoop/friends-of-hek)** – frontend + smart contract design for tokenized museum membership
+
+### Selected exploratory work
+
+* **[chat.xx-c.art](https://chat.xx-c.art)** – experimental chatroom interface for Bluesky followers w/ integrated LLM
+* **[charlebois.solutions](https://charlebois.solutions/20241102)** – browser experiments in UI/UX (pixel, button, interface studies)
+* **[couleurs.tripledoublev.com](https://couleurs.tripledoublev.com)** – sky sousveillance as generative art
+
+### Previous Highlights
 
 
-### Key skills  
-- Critical, creative & strategic thinking  
-- Compassionate communicator and collaborator
-- Open source advocate
-- Self-driven problem-solver motivated to work on creative projects
-- Curious, independent and commited
+* **[Am I at the Studio?](https://vincent.charlebois.info/am-i/)** – Raspberry Pi + smart contract tracking for presence
+* **[Consecutive Days](https://vincent.charlebois.info/consecutive-days/)** – Python timecard visualizer + static site builder
 
+### Blockchain & Generative Systems
 
-### Summary of technical skills
-- Expertise in HTML and CSS
-- Experience in Javascript and React
-- Knowledge of Python and Linux command line
-- Experience with Jekyll 
-- Proficient with collaborative development and remote working tools
-- Knowledge of blockchain and p2p technologies
-- Abode Creative Suite (Photoshop, Illustrator, InDesign)
+* Smart contract design with Solidity 
+* Web3 frontends using Ethers.js and Web3.py
+* Generative art with SVG + AI systems (StyleGAN, VQGAN, Diffusion)
+* Past contributor to DAOs, Kernel Block 5 fellow
 
-### Current position (since November 2022)
-- Front End Developer with [Hypha Worker Co-operative](https://hypha.coop)
-    * Collaborating with communities to build better relationships with technology.
+### Past Roles
 
+* **2021–2022**: Web Specialist, Digital Initiatives @ McGill University Library
+* **2019–2020**: Production & Operations Manager, Fablab inc.
+* **2012–2018**: Project Manager, Canadian silviculture and reforestation
 
- 
-### Recent web projects
-* [Try Leather](https://tryleather.net) (on-going)
-    - Design and development with [autofirm](https://autofirm.biz)
-    - HTML, CSS, PHP and JavaScript
-    - Kirby and Bootstrap
-    - Git with merge request workflow
-    
-    
-* [Am I at the studio?](https://vincent.charlebois.info/am-i/)
-    - Personal web3 site that gets updated whenever I enter or leave the studio
-    - HTML, CSS, Javascript that fetches environmental data from Raspberry Pi
-    - Web3.py to interact with Optimism
-    - Ethers.js to fetch blockchain state
-    - Solidity Smart Contract
-    - Github actions
+### Web Presence
 
-  
-* [Consecutive days at the studio](https://vincent.charlebois.info/consecutive-days/) (on-going)
-    - Personal python project that generates html from my personal timecard data
-    - Python, HTML, CSS, Javascript
-    - Github actions
-
-### Additional Skills
-- Blockchain experience: 
-    * DAOs
-        - DAO Member and contributor
-        - Kernel block 5 fellow
-    * [Timesheet](#recent-web-projects):
-        - Wrote my own [Solidity Smart Contract](https://optimistic.etherscan.io/address/0xaf6c153972fbc7d67feaa9f9d1d08f3c13f79773#code)
-        - Python interface with [Web3.py](https://github.com/tripledoublev/timesheet/blob/master/w3py/toggle.py)
-        - [Front-end web app](https://vincent.charlebois.info/am-i) with Ethers.js
-    * [NFTs](https://vncnt.xyz)
-        - HTML, CSS, Javascript, SVG and other interactive NFTs
-- Experiments with generative and AI systems (stylegan,vqgan,diffusion)
-- Raspberry pi, node-red and environmental data sensing
-    * Enviro board by Pimonori
-    * A node-red web app to fetch weather data from my cloud-connected weather station
-- Audiovisual editing and processing
-- Adobe, Microsoft and Google suite
-
-### Previous positions 
- - 2021 - 2022 Web Specialist and Multimedia Coordinator with the Digital Initiatives at the McGill University Library
- - 2019 - 2020 Production & Operations Manager at Fablab inc, a 3d printing start-up
- - 2012 - 2018 Project manager for Reforestation projects with multiple Canadian Silviculture companies
-
-### Web presence
-- [simple dot com](https://vincentcharlebois.com)  
-- [portfolio dot net](https://vincentcharlebois.net)  
-- [descriptive dot info](https://vincent.charlebois.info)  
+* [vincentcharlebois.com](https://vincentcharlebois.com)
+* [vincentcharlebois.net](https://vincentcharlebois.net)
+* [vincent.charlebois.info](https://vincent.charlebois.info)
+* [vncnt.xyz](https://vncnt.xyz)
