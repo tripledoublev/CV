@@ -41,7 +41,8 @@
 2012 Eternal Internet Brotherhood/Sisterhood, Anafi, Greece  
   
 ### Web sites
-2024 [Couleur de Montréal](https://tripledoublev.com/couleur)  
+2025 [La fabrication de forêts futures](https://ffforests.xyz/v)
+2024 [Couleur de Montréal](https://vincent.charlebois.info/en/couleur/)  
 2023 [Consecutive days at the studio](https://vincent.charlebois.info/consecutive-days/)  
 2022 [postvisions](https://postvis.io)  
 2021 [Je me souviens](https://www.couvre-feu.quebec/)  
@@ -56,12 +57,14 @@
 2012 Kinoautomat, Cinémathèque Québécoise, Montreal, QC Canada  
   
 ### Print
+2025 Espace Art actuel #139
 2017 ETC media magazine #110   
 2017 Sound Development City, Publication, [PDF](https://charlebois.solutions/pdfs/SDC_2016_Publication-Digital-Charlebois_Vincent.pdf)  
 2015 Après tout Internet par Gregory Chatonsky, ETC media magazine #106  
 2014 Bosquet magazine #02  
   
 ### Web mentions
+2025 [Quartier des spectacles](https://www.quartierdesspectacles.com/en/blog/la-fabrication-de-forets-futures-a-meditative-journey-into-synthetic-forests): A meditative journey into synthetic forests by Sara Fauteux
 2023 [Rhizome](https://rhizome.org/editorial/2023/feb/02/announcing-some-tumblrs/): Announcing Some Tumblrs!  
 2017 [tzvetnik](https://tzvetnik.online/article/new-scenario-s-residency) : New Scenario’s RESIDENCY  
 2016 [Art Agenda](https://www.art-agenda.com/criticism/239530/experimental-education-protocol): Experimental Education Protocol by Tess Edmonson  
@@ -72,7 +75,7 @@
 ### Web presence  
 - [dot com](https://vincentcharlebois.com)  
 - [dot net](https://vincentcharlebois.net)  
-- [dot info](https://vincent.charlebois.info)  
+- [dot info](https://vincent.charlebois.info/en)  
 - [dot xyz](https://vncnt.xyz)  
 
 

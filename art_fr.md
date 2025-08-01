@@ -41,7 +41,8 @@
 2012 Eternal Internet Brotherhood/Sisterhood, Anafi, Grèce  
   
 ### Sites web
-2024 [Couleur de Montréal](https://tripledoublev.com/couleur)  
+2025 [La fabrication de forêts futures](https://ffforests.xyz/v)
+2024 [Couleur de Montréal](https://vincent.charlebois.info/fr/couleur/)  
 2023 [Consecutive days at the studio](https://vincent.charlebois.info/consecutive-days/)  
 2022 [postvisions](https://postvis.io)  
 2021 [Je me souviens](https://www.couvre-feu.quebec/)  
@@ -56,23 +57,25 @@
 2012 Kinoautomat, Cinémathèque Québécoise, Montréal, QC, Canada  
   
 ### Publications
+2025 Espace Art actuel #139
 2017 ETC media magazine #110   
 2017 Sound Development City, Publication, [PDF](https://charlebois.solutions/pdfs/SDC_2016_Publication-Digital-Charlebois_Vincent.pdf)  
 2015 Après tout Internet par Gregory Chatonsky, ETC media magazine #106  
 2014 Bosquet magazine #02  
   
 ### Mentions web
+2024 [Quartier des spectacles](https://www.quartierdesspectacles.com/fr/blogue/la-fabrication-de-forets-futures-voyage-meditatif-dans-des-forets-synthetiques): Voyage méditatif dans des forêts synthétiques, Sara Fauteux
 2023 [Rhizome](https://rhizome.org/editorial/2023/feb/02/announcing-some-tumblrs/) : Announcing Some Tumblrs!  
 2017 [tzvetnik](https://tzvetnik.online/article/new-scenario-s-residency) : New Scenario’s RESIDENCY  
-2016 [Art Agenda](https://www.art-agenda.com/criticism/239530/experimental-education-protocol) : Experimental Education Protocol par Tess Edmonson  
-2016 About Growing Forests and Data Patterns par Uwe Lützen  
-2014 [AQNB](https://www.aqnb.com/2014/03/31/an-interview-with-vincent-charlebois/) : An Interview With Vincent Charlebois par Eva Folks  
-2012 [Rhizome](https://rhizome.org/editorial/2012/aug/27/eternal-internet-brotherhood/) :The Eternal Internet Brotherhood par Joanne McNeil  
+2016 [Art Agenda](https://www.art-agenda.com/criticism/239530/experimental-education-protocol) : Experimental Education Protocol, Tess Edmonson  
+2016 About Growing Forests and Data Patterns, Uwe Lützen  
+2014 [AQNB](https://www.aqnb.com/2014/03/31/an-interview-with-vincent-charlebois/) : An Interview With Vincent Charlebois, Eva Folks  
+2012 [Rhizome](https://rhizome.org/editorial/2012/aug/27/eternal-internet-brotherhood/) :The Eternal Internet Brotherhood, Joanne McNeil  
 
 ### Présence en ligne  
 - [dot com](https://vincentcharlebois.com)  
 - [dot net](https://vincentcharlebois.net)  
-- [dot info](https://vincent.charlebois.info)  
+- [dot info](https://vincent.charlebois.info/fr)  
 - [dot xyz](https://vncnt.xyz)  
 
 ### Formation
