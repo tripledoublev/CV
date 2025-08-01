@@ -64,7 +64,7 @@
 2014 Bosquet magazine #02  
   
 ### Mentions web
-2024 [Quartier des spectacles](https://www.quartierdesspectacles.com/fr/blogue/la-fabrication-de-forets-futures-voyage-meditatif-dans-des-forets-synthetiques): Voyage méditatif dans des forêts synthétiques, Sara Fauteux
+2024 [Quartier des spectacles](https://www.quartierdesspectacles.com/fr/blogue/la-fabrication-de-forets-futures-voyage-meditatif-dans-des-forets-synthetiques): Voyage méditatif dans des forêts synthétiques, Sara Fauteux  
 2023 [Rhizome](https://rhizome.org/editorial/2023/feb/02/announcing-some-tumblrs/) : Announcing Some Tumblrs!  
 2017 [tzvetnik](https://tzvetnik.online/article/new-scenario-s-residency) : New Scenario’s RESIDENCY  
 2016 [Art Agenda](https://www.art-agenda.com/criticism/239530/experimental-education-protocol) : Experimental Education Protocol, Tess Edmonson  
