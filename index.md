@@ -4,10 +4,7 @@ layout: default
 
 ## Research-to-product builder, software developer, and artist-researcher
 
-### GitHub: https://github.com/tripledoublev
-### Email: vincent@charlebois.info
-### Cooperative work: https://hypha.coop/work
-### Art portfolio: https://vincentcharlebois.net
+[GitHub](https://github.com/tripledoublev) · [Email](mailto:vincent@charlebois.info) · [Hypha](https://hypha.coop/work) · [Art](https://vincentcharlebois.net)
 
 I build deployable software and distributed systems that move from research and concept to real-world use. My work spans Rust backends, agentic AI systems, decentralized infrastructure, and high-fidelity web interfaces. I focus on systems thinking, technical depth, and shipping production features that operate reliably in complex environments.
 
