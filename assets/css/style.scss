@@ -2,6 +2,10 @@
 ---
 
 @import "{{ site.theme }}";
+  body {
+    background-color: white;
+    color: black;
+  }
     header p, footer p {
      display:none;
   }
@@ -22,3 +26,5 @@
       border-width:0px;
    }
 }
+h2 { max-width: 75vw; }
+p, li { max-width: 80vw; }
