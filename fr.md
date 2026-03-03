@@ -1,3 +1,7 @@
+--
+layout: default
+---
+
 ## Traducteur recherche-produit, développeur logiciel et artiste-chercheur
 
 ### GitHub: https://github.com/tripledoublev
