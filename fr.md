@@ -4,10 +4,7 @@ layout: default
 
 ## Traducteur recherche-produit, développeur logiciel et artiste-chercheur
 
-### GitHub: https://github.com/tripledoublev
-### Email: vincent@charlebois.info
-### Travail coopératif: https://hypha.coop/work
-### Portfolio artistique: https://vincentcharlebois.net
+[GitHub](https://github.com/tripledoublev) · [Courriel](mailto:vincent@charlebois.info) · [Hypha](https://hypha.coop/work) · [Art](https://vincentcharlebois.net)
 
 Je conçois des logiciels déployables et des systèmes distribués qui passent de la recherche au déploiement réel. Mon travail couvre des backends en Rust, des systèmes IA agentiques, des infrastructures décentralisées et des interfaces web performantes. Je privilégie la pensée systémique, la profondeur technique et la livraison de fonctionnalités robustes en contexte réel.
 
