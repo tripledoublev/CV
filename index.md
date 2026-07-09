@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: bold
 ---
 
 ## Research-to-product builder, software developer, and artist-researcher
@@ -10,10 +10,10 @@ I build deployable software and distributed systems that move from research and 
 
 ---
 
-## Current Role
+## Recent Role
 
 ### Member-worker — Hypha Worker Co-operative  
-Montréal, QC | 2022–Present
+Montréal, QC | 2022–July 2026
 
 - Lead developer of RooLLM, a tool-using AI system deployed in real organizational workflows.
 - Designed modular agent architecture integrating local LLM inference, structured tool execution, and API orchestration.
@@ -78,7 +78,7 @@ Environmental sensing → backend logic → smart contract state → public inte
 ## Education
 
 Master in Advanced Ecological Buildings & Biocities  
-Institute for Advanced Architecture of Catalonia
+IAAC / UPC — 2019
 
 BFA, Intermedia & Cyberarts  
-Concordia University
+Concordia University — 2012

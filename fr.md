@@ -10,10 +10,10 @@ Je conçois des logiciels déployables et des systèmes distribués qui passent 
 
 ---
 
-## Rôle actuel
+## Rôle récent
 
 ### Membre-travailleur — Hypha Worker Co-operative  
-Montréal, QC | 2022–présent
+Montréal, QC | 2022–juillet 2026
 
 - Développeur principal de RooLLM, système IA à outils intégré dans des flux de travail organisationnels.
 - Conception d’une architecture modulaire d’agents (raisonnement multi-étapes + exécution d’outils structurés).
@@ -78,7 +78,7 @@ Capteurs environnementaux → logique backend → smart contract → interface p
 ## Formation
 
 Maîtrise en bâtiments écologiques avancés et biocités  
-Institut d’architecture avancée de Catalogne
+Institut d’architecture avancée de Catalogne — 2019
 
 BFA Intermedia & Cyberarts  
-Université Concordia
+Université Concordia — 2012
