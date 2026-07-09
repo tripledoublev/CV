@@ -1,5 +1,5 @@
 ---
-layout: bold
+layout: default
 ---
 
 ## Research-to-product builder, software developer, and artist-researcher
