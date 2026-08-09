@@ -2,68 +2,79 @@
 layout: default
 ---
 
-## Research-to-product builder, software developer, and artist-researcher
+## Software developer, artist, and agentic interaction designer
 
-[GitHub](https://github.com/tripledoublev) · [Email](mailto:vincent@charlebois.info) · [Hypha](https://hypha.coop/work) · [Art](https://vincentcharlebois.net)
+[Website](https://vincentcharlebois.com) · [GitHub](https://github.com/tripledoublev) · [LinkedIn](https://linkedin.com/in/vincent-charlebois) · [Email](mailto:vincent@charlebois.info) · [Art](https://vincentcharlebois.net)
 
-I build deployable software and distributed systems that move from research and concept to real-world use. My work spans Rust backends, agentic AI systems, decentralized infrastructure, and high-fidelity web interfaces. I focus on systems thinking, technical depth, and shipping production features that operate reliably in complex environments.
+I build deployable AI systems, distributed infrastructure, product-focused digital tools, and browser-native artworks. My current focus is designing and developing interactions with autonomous systems: making agent actions observable, controllable, and useful in real-world workflows. I work across Go and Rust backends, terminal interfaces, decentralized protocols, and high-fidelity web applications.
 
 ---
 
-## Recent Role
+## Professional Experience
+
+### Software Developer — [Fly.io](https://fly.io)
+
+Remote | July 2026–present
+
+- Developing data persistence and core storage systems in Go and Rust for Fly.io’s Computers for Agents infrastructure.
+- Working on durable state for hardware-isolated Linux environments designed for long-running AI agents and arbitrary code execution.
 
 ### Member-worker — Hypha Worker Co-operative  
 Montréal, QC | 2022–July 2026
 
-- Lead developer of RooLLM, a tool-using AI system deployed in real organizational workflows.
+- Lead developer of RooLLM, a tool-using AI system deployed in the co-op’s organizational workflows.
 - Designed modular agent architecture integrating local LLM inference, structured tool execution, and API orchestration.
 - Built backend services (Node.js and Rust integrations) supporting decentralized storage and distributed workflows.
 - Implemented citation-grounded retrieval systems and human-in-the-loop approval flows.
 - Deployed and maintained self-hosted GPU inference infrastructure.
 - Integrated AI systems into production dashboards with TypeScript and Svelte.
 
----
+### Rust Backend Contributor (Contract) — [OpenArchive](https://open-archive.org)
 
-## Backend & Systems Experience
+Remote | 2023–2024
 
-### OpenArchive — Rust Backend Contributor (Contract)
-
-- Contributed to decentralized backend logic (save-dweb-backend).
-- Focused on reliability, data integrity, and fault tolerance for distributed archival systems.
-- Worked in Rust across storage and networking layers.
-
-### Distributed Infrastructure Work
-
-- IPFS / decentralized publishing pipelines (Helia, Kubo).
-- GitHub Actions automation for resilient publishing workflows.
-- Solidity smart contracts and EVM integrations.
-- IoT-to-Web3 bridge (Raspberry Pi → on-chain validation system).
+- Contributed to [save-dweb-backend](https://github.com/OpenArchive/save-dweb-backend), a peer-to-peer archival backend for the Save mobile app.
+- Developed Rust storage and networking components within an architecture using Veilid for peer discovery and routing and Iroh for blob storage and integrity verification.
+- Focused on resilient citizen-media preservation without a central point of control.
 
 ---
 
 ## Technical Stack
 
-- **Languages:** Rust, TypeScript/JavaScript, Python, Solidity
-- **Backend:** Node.js, REST APIs, distributed systems architecture
-- **AI Systems:** Tool-using agents, local inference (Ollama), structured outputs
-- **Infra:** Docker, Linux, CI/CD, decentralized storage
-- **Frontend:** Svelte, React, performance-focused UI systems
+- **Languages:** Go, Rust, TypeScript/JavaScript, Python, Solidity
+- **AI systems:** Tool-using agents, RAG, local inference, structured outputs, evaluation
+- **Agent infrastructure:** Trace-based observability, durable memory, safety controls, sandboxing, CLI/TUI design
+- **Backend & protocols:** Node.js, REST APIs, distributed systems, AT Protocol, Veilid, Iroh
+- **Infrastructure:** Docker, Linux, CI/CD, self-hosted inference, decentralized storage
+- **Frontend:** Svelte, interaction design, performance-focused UI systems
 
 ---
 
 ## Selected Technical Projects
 
-### RooLLM  
-Open-source modular agent framework for cooperative organizations.  
-Designed ReAct-style reasoning loop and tool execution system.
+### [v100](https://github.com/tripledoublev/v100)
 
-### spores.garden  
-Decentralized publishing client built on the AT Protocol.  
+Go runtime for building, running, and studying autonomous coding agents.
+
+Implements interchangeable reasoning strategies, schema-bound tools, execution budgets, durable memory and traces, replay, evaluation, and operator safety controls.
+
+### [Doxa](https://doxa.xx-c.art) & [Nego](https://nego.xx-c.art)
+
+Browser-native artworks investigating how people understand and participate in autonomous systems.
+
+Make agent memory, state, errors, and multi-agent negotiation legible as interaction spaces.
+
+### [Anaphor](https://github.com/tripledoublev/anaphor)
+
+Rust terminal tool that selects and gathers relevant context from the web, URLs, local files, or standard input.
+
+Produces source-grounded answers from natural-language questions without requiring users to choose tools manually.
+
+### [spores.garden](https://github.com/tripledoublev/spores.garden)
+
+Decentralized publishing client built on the AT Protocol.
+
 Frontend architecture for lexicon-extensible content systems.
-
-### Am I at the studio?  
-IoT + on-chain presence system.  
-Environmental sensing → backend logic → smart contract state → public interface.
 
 ---
 
