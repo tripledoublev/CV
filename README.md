@@ -1,13 +1,11 @@
-# VC's CV
+# Vincent Charlebois’s CV
 
-## FR
+The current CV is published at [tripledoublev.github.io/CV](https://tripledoublev.github.io/CV/).
 
-Le CV de VC est disponible [en français](https://tripledoublev.github.io/CV/fr).
+Software developer at [Fly.io](https://fly.io), working in Go and Rust on data persistence and core storage for Computers for Agents.
 
-## Exploring the potential of having a [markdown CV hosted on github pages](https://tripledoublev.github.io/CV/).
+## Français
 
-### I am an internet explorateur working with [HYPHA](https://hypha.coop) 
+Le CV est également disponible [en français](https://tripledoublev.github.io/CV/fr).
 
-
-You can find out more about myself on [dot info](https://vincent.charlebois.info/) or on [dot com](https://vincentcharlebois.com)
-
+Learn more at [vincentcharlebois.com](https://vincentcharlebois.com) or [vincent.charlebois.info](https://vincent.charlebois.info/).
