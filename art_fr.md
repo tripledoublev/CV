@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ### Artiste-chercheur interdisciplinaire et technologue créatif
 
 ### Expositions individuelles
@@ -41,6 +45,8 @@
 2012 Eternal Internet Brotherhood/Sisterhood, Anafi, Grèce  
   
 ### Sites web
+2026 [oueb.cam / oueb.social](https://oueb.cam)  
+2025 [L'abécédaire de l'IA](https://xx-c.art)  
 2025 [La fabrication de forêts futures](https://ffforests.xyz/v)  
 2024 [Couleur de Montréal](https://vincent.charlebois.info/fr/couleur/)  
 2023 [Consecutive days at the studio](https://vincent.charlebois.info/consecutive-days/)  
